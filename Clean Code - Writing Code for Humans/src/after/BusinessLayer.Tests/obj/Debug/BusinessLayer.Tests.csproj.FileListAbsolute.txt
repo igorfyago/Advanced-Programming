@@ -1,0 +1,54 @@
+C:\Projects\Pluralsight Demo\trunk\Clean Code\BusinessLayer.Tests\bin\Debug\Database.sdf
+C:\Projects\Pluralsight Demo\trunk\Clean Code\BusinessLayer.Tests\bin\Debug\BusinessLayer.Tests.dll
+C:\Projects\Pluralsight Demo\trunk\Clean Code\BusinessLayer.Tests\bin\Debug\BusinessLayer.Tests.pdb
+C:\Projects\Pluralsight Demo\trunk\Clean Code\BusinessLayer.Tests\bin\Debug\BusinessLayer.dll
+C:\Projects\Pluralsight Demo\trunk\Clean Code\BusinessLayer.Tests\bin\Debug\DataAccessLayer.dll
+C:\Projects\Pluralsight Demo\trunk\Clean Code\BusinessLayer.Tests\bin\Debug\BusinessLayer.pdb
+C:\Projects\Pluralsight Demo\trunk\Clean Code\BusinessLayer.Tests\bin\Debug\DataAccessLayer.pdb
+C:\Projects\Pluralsight Demo\trunk\Clean Code\BusinessLayer.Tests\obj\Debug\BusinessLayer.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\Pluralsight Demo\trunk\Clean Code\BusinessLayer.Tests\obj\Debug\BusinessLayer.Tests.dll
+C:\Projects\Pluralsight Demo\trunk\Clean Code\BusinessLayer.Tests\obj\Debug\BusinessLayer.Tests.pdb
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\BusinessLayer.Tests\bin\Debug\Database.sdf
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\BusinessLayer.Tests\bin\Debug\BusinessLayer.Tests.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\BusinessLayer.Tests\bin\Debug\BusinessLayer.Tests.pdb
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\BusinessLayer.Tests\bin\Debug\BusinessLayer.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\BusinessLayer.Tests\bin\Debug\DataAccessLayer.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\BusinessLayer.Tests\bin\Debug\BusinessLayer.pdb
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\BusinessLayer.Tests\bin\Debug\DataAccessLayer.pdb
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\BusinessLayer.Tests\obj\Debug\BusinessLayer.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\BusinessLayer.Tests\obj\Debug\BusinessLayer.Tests.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\BusinessLayer.Tests\obj\Debug\BusinessLayer.Tests.pdb
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\BusinessLayer.Tests\bin\Debug\Database.sdf
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\BusinessLayer.Tests\bin\Debug\BusinessLayer.Tests.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\BusinessLayer.Tests\bin\Debug\BusinessLayer.Tests.pdb
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\BusinessLayer.Tests\bin\Debug\BusinessLayer.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\BusinessLayer.Tests\bin\Debug\DataAccessLayer.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\BusinessLayer.Tests\bin\Debug\BusinessLayer.pdb
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\BusinessLayer.Tests\bin\Debug\DataAccessLayer.pdb
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\BusinessLayer.Tests\obj\Debug\BusinessLayer.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\BusinessLayer.Tests\obj\Debug\BusinessLayer.Tests.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\before\BusinessLayer.Tests\obj\Debug\BusinessLayer.Tests.pdb
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\after\BusinessLayer.Tests\obj\Debug\BusinessLayer.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\after\BusinessLayer.Tests\obj\Debug\BusinessLayer.Tests.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\after\BusinessLayer.Tests\bin\Debug\Database.sdf
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\after\BusinessLayer.Tests\bin\Debug\BusinessLayer.Tests.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\after\BusinessLayer.Tests\bin\Debug\BusinessLayer.Tests.pdb
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\after\BusinessLayer.Tests\bin\Debug\BusinessLayer.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\after\BusinessLayer.Tests\bin\Debug\DataAccessLayer.dll
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\after\BusinessLayer.Tests\bin\Debug\BusinessLayer.pdb
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\after\BusinessLayer.Tests\bin\Debug\DataAccessLayer.pdb
+C:\Users\Cory\Dropbox\Presentations\Pluralsight\Clean Code\writing-clean-code-humans\writing-clean-code-humans-m8-demo\after\BusinessLayer.Tests\obj\Debug\BusinessLayer.Tests.pdb
+D:\GitHub\Advanced-Programming\Clean Code - Writing Code for Humans\src\after\BusinessLayer.Tests\bin\Debug\Database.sdf
+D:\GitHub\Advanced-Programming\Clean Code - Writing Code for Humans\src\after\BusinessLayer.Tests\bin\Debug\BusinessLayer.Tests.dll
+D:\GitHub\Advanced-Programming\Clean Code - Writing Code for Humans\src\after\BusinessLayer.Tests\bin\Debug\BusinessLayer.Tests.pdb
+D:\GitHub\Advanced-Programming\Clean Code - Writing Code for Humans\src\after\BusinessLayer.Tests\bin\Debug\BusinessLayer.dll
+D:\GitHub\Advanced-Programming\Clean Code - Writing Code for Humans\src\after\BusinessLayer.Tests\bin\Debug\DataAccessLayer.dll
+D:\GitHub\Advanced-Programming\Clean Code - Writing Code for Humans\src\after\BusinessLayer.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\GitHub\Advanced-Programming\Clean Code - Writing Code for Humans\src\after\BusinessLayer.Tests\bin\Debug\BusinessLayer.pdb
+D:\GitHub\Advanced-Programming\Clean Code - Writing Code for Humans\src\after\BusinessLayer.Tests\bin\Debug\DataAccessLayer.pdb
+D:\GitHub\Advanced-Programming\Clean Code - Writing Code for Humans\src\after\BusinessLayer.Tests\bin\Debug\DataAccessLayer.dll.config
+D:\GitHub\Advanced-Programming\Clean Code - Writing Code for Humans\src\after\BusinessLayer.Tests\obj\Debug\BusinessLayer.Tests.csprojAssemblyReference.cache
+D:\GitHub\Advanced-Programming\Clean Code - Writing Code for Humans\src\after\BusinessLayer.Tests\obj\Debug\BusinessLayer.Tests.csproj.CoreCompileInputs.cache
+D:\GitHub\Advanced-Programming\Clean Code - Writing Code for Humans\src\after\BusinessLayer.Tests\obj\Debug\BusinessLayer.Tests.csproj.CopyComplete
+D:\GitHub\Advanced-Programming\Clean Code - Writing Code for Humans\src\after\BusinessLayer.Tests\obj\Debug\BusinessLayer.Tests.dll
+D:\GitHub\Advanced-Programming\Clean Code - Writing Code for Humans\src\after\BusinessLayer.Tests\obj\Debug\BusinessLayer.Tests.pdb
