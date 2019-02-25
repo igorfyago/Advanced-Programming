@@ -1,0 +1,6 @@
+C:\Users\Steve\Documents\My Projects\PluralSight\004 - Interface Segregation Principle\Demo\ISP\InterfaceSegregation\bin\Debug\InterfaceSegregation.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\004 - Interface Segregation Principle\Demo\ISP\InterfaceSegregation\bin\Debug\InterfaceSegregation.pdb
+C:\Users\Steve\Documents\My Projects\PluralSight\004 - Interface Segregation Principle\Demo\ISP\InterfaceSegregation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Documents\My Projects\PluralSight\004 - Interface Segregation Principle\Demo\ISP\InterfaceSegregation\obj\Debug\InterfaceSegregation.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\004 - Interface Segregation Principle\Demo\ISP\InterfaceSegregation\obj\Debug\InterfaceSegregation.pdb
+C:\Users\Steve\Documents\My Projects\PluralSight\004 - Interface Segregation Principle\Demo\ISP\InterfaceSegregation\bin\Debug\InterfaceSegregation.dll.config

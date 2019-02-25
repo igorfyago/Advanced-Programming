@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="ExtractTransformLoad\IntegrationTests\bin\debug\IntegrationTests.dll" total="1" errors="1" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2010-10-05" time="21:09:53">
+  <environment nunit-version="2.5.7.10213" clr-version="4.0.30319.1" os-version="Microsoft Windows NT 6.1.7600.0" platform="Win32NT" cwd="C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Part 2\Demo - Final" machine-name="STEVE-E6500" user="Steve" user-domain="Steve-E6500" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="ExtractTransformLoad\IntegrationTests\bin\debug\IntegrationTests.dll" executed="True" result="Failure" success="False" time="14.944" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="IntegrationTests" executed="True" result="Failure" success="False" time="14.941" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="ExtractShould" executed="True" result="Failure" success="False" time="14.939" asserts="0">
+            <results>
+              <test-case name="IntegrationTests.ExtractShould.LoadInvoices" executed="True" result="Error" success="False" time="14.932" asserts="0">
+                <failure>
+                  <message><![CDATA[System.NotSupportedException : LINQ to Entities does not recognize the method 'Boolean IsManager(Northwind.Entities.NorthwindEntities, Northwind.Entities.Employee)' method, and this method cannot be translated into a store expression.]]></message>
+                  <stack-trace><![CDATA[at System.Data.Objects.ELinq.ExpressionConverter.MethodCallTranslator.DefaultTranslator.Translate(ExpressionConverter parent, MethodCallExpression call)
+at System.Data.Objects.ELinq.ExpressionConverter.MethodCallTranslator.TypedTranslate(ExpressionConverter parent, MethodCallExpression linq)
+at System.Data.Objects.ELinq.ExpressionConverter.TypedTranslator`1.Translate(ExpressionConverter parent, Expression linq)
+at System.Data.Objects.ELinq.ExpressionConverter.TranslateExpression(Expression linq)
+at System.Data.Objects.ELinq.ExpressionConverter.ConditionalTranslator.TypedTranslate(ExpressionConverter parent, ConditionalExpression linq)
+at System.Data.Objects.ELinq.ExpressionConverter.TypedTranslator`1.Translate(ExpressionConverter parent, Expression linq)
+at System.Data.Objects.ELinq.ExpressionConverter.TranslateExpression(Expression linq)
+at System.Data.Objects.ELinq.ExpressionConverter.TranslateLambda(LambdaExpression lambda, DbExpression input)
+at System.Data.Objects.ELinq.ExpressionConverter.TranslateLambda(LambdaExpression lambda, DbExpression input, DbExpressionBinding& binding)
+at System.Data.Objects.ELinq.ExpressionConverter.MethodCallTranslator.OneLambdaTranslator.Translate(ExpressionConverter parent, MethodCallExpression call, DbExpression& source, DbExpressionBinding& sourceBinding, DbExpression& lambda)
+at System.Data.Objects.ELinq.ExpressionConverter.MethodCallTranslator.SelectTranslator.Translate(ExpressionConverter parent, MethodCallExpression call)
+at System.Data.Objects.ELinq.ExpressionConverter.MethodCallTranslator.SequenceMethodTranslator.Translate(ExpressionConverter parent, MethodCallExpression call, SequenceMethod sequenceMethod)
+at System.Data.Objects.ELinq.ExpressionConverter.MethodCallTranslator.TypedTranslate(ExpressionConverter parent, MethodCallExpression linq)
+at System.Data.Objects.ELinq.ExpressionConverter.TypedTranslator`1.Translate(ExpressionConverter parent, Expression linq)
+at System.Data.Objects.ELinq.ExpressionConverter.TranslateExpression(Expression linq)
+at System.Data.Objects.ELinq.ExpressionConverter.Convert()
+at System.Data.Objects.ELinq.ELinqQueryState.GetExecutionPlan(Nullable`1 forMergeOption)
+at System.Data.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+at System.Data.Objects.ObjectQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+at ExtractTransformLoad.Impl.SqlEmployeeRepository.List() in c:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Part 2\Demo - Final\ExtractTransformLoad\ExtractTransformLoad\Impl\SqlEmployeeRepository.cs:line 17
+at ExtractTransformLoad.Services.ExtractionService.Extract() in c:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Part 2\Demo - Final\ExtractTransformLoad\ExtractTransformLoad\Services\ExtractionService.cs:line 44
+at IntegrationTests.ExtractShould.LoadInvoices() in c:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Part 2\Demo - Final\ExtractTransformLoad\IntegrationTests\ExtractShould.cs:line 14
+]]></stack-trace>
+                </failure>
+              </test-case>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

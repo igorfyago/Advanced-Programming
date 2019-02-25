@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <OutputPath>Deploy</OutputPath>
+    <ProjectName>ExtractTransformLoad</ProjectName>
+  </PropertyGroup> 
+  <Target Name="DebugBuild">
+    <Message Text="Building $(ProjectName)" />
+    <MSBuild Projects="$(ProjectName)\$(ProjectName).sln" Targets="Clean" Properties="Configuration=Debug"/>
+    <MSBuild Projects="$(ProjectName)\$(ProjectName).sln" Targets="Build" Properties="Configuration=Debug"/>
+  </Target>
+
+  <Target Name="BuildAndTest" DependsOnTargets="DebugBuild">
+    <Message Text="Running $(ProjectName) Unit Tests" />
+    <Exec Command="lib\Nunit\nunit-console.exe $(ProjectName)\UnitTests\bin\debug\UnitTests.dll /nologo /framework=4.0.30319 /xml:UnitTestResults.xml"/>
+	<Message Text="Running $(ProjectName) Integration Tests" />
+    <Exec Command="lib\Nunit\nunit-console.exe $(ProjectName)\IntegrationTests\bin\debug\IntegrationTests.dll /nologo /framework=4.0.30319 /xml:IntegrationTestResults.xml"/>
+  </Target>
+
+  <Target Name="ReleaseBuild" DependsOnTargets="BuildAndTest">
+    <Message Text="Building $(ProjectName) Release Build" />
+    <MSBuild Projects="$(ProjectName)\$(ProjectName).sln" Targets="Clean" Properties="Configuration=Release" />
+    <MSBuild Projects="$(ProjectName)\$(ProjectName).sln" Targets="Build" Properties="Configuration=Release" />
+    <Message Text="$(ProjectName) Release Build Complete!" />
+  </Target>
+  
+  <Target Name="Deploy" DependsOnTargets="ReleaseBuild">
+    <Message Text="Deploying $(ProjectName)" />
+    <CreateItem Include="$(ProjectName)\$(ProjectName)\bin\Release\*.*">
+      <Output TaskParameter="Include" ItemName="CompileOutput" />
+    </CreateItem>
+    <Copy SourceFiles="@(CompileOutput)"
+        DestinationFolder="$(OutputPath)"></Copy>
+    <Message Text="$(ProjectName) Deploy Complete!" />
+  </Target>
+</Project>

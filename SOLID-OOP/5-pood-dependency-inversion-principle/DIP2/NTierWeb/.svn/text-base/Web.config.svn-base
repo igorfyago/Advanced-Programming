@@ -1,0 +1,26 @@
+﻿<?xml version="1.0"?>
+<configuration>
+	<appSettings>
+		<add key="ConnectionString" value="Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|NTierDB.mdf;Integrated Security=True;User Instance=True;Database=NTierDB"/>
+		<add key="ApplicationName" value="ASPConnections NTier Talk Web Site"/>
+	</appSettings>
+	<system.web>
+		<compilation defaultLanguage="c#" debug="true" targetFramework="4.0">
+		</compilation>
+		<customErrors mode="Off"/>
+		<authentication mode="Forms">
+			<forms name="NTierAuthorization" loginUrl="login.aspx" protection="All" path="/"></forms>
+		</authentication>
+		<trace enabled="false" requestLimit="10" pageOutput="false" traceMode="SortByTime" localOnly="true"/>
+		<sessionState mode="InProc" stateConnectionString="tcpip=127.0.0.1:42424" sqlConnectionString="data source=127.0.0.1;user id=sa;password=" cookieless="false" timeout="20"/>
+		<globalization requestEncoding="utf-8" responseEncoding="utf-8"/>
+		<xhtmlConformance mode="Legacy"/>
+		<pages controlRenderingCompatibilityVersion="3.5" clientIDMode="AutoID"/></system.web>
+	<location path="Secure.aspx">
+		<system.web>
+			<authorization>
+				<deny users="?"/>
+			</authorization>
+		</system.web>
+	</location>
+</configuration>

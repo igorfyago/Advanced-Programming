@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/SteveSmith/!svn/ver/170/N-Tier%20Development%20In%20.NET/trunk/src/NTierWeb/App_Data
+END
+users.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/SteveSmith/!svn/ver/170/N-Tier%20Development%20In%20.NET/trunk/src/NTierWeb/App_Data/users.xml
+END
+NTierDB.mdf
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/SteveSmith/!svn/ver/225/N-Tier%20Development%20In%20.NET/trunk/src/NTierWeb/App_Data/NTierDB.mdf
+END
+NTierDB_log.LDF
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/SteveSmith/!svn/ver/225/N-Tier%20Development%20In%20.NET/trunk/src/NTierWeb/App_Data/NTierDB_log.LDF
+END

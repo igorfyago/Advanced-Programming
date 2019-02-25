@@ -1,0 +1,5 @@
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Demo\ExtractTransformLoad\IntegrationTests\bin\Release\IntegrationTests.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Demo\ExtractTransformLoad\IntegrationTests\bin\Release\IntegrationTests.pdb
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Demo\ExtractTransformLoad\IntegrationTests\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Demo\ExtractTransformLoad\IntegrationTests\obj\Release\IntegrationTests.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Demo\ExtractTransformLoad\IntegrationTests\obj\Release\IntegrationTests.pdb

@@ -1,0 +1,398 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/f:App.config" caret="125" fromTop="4" />
+      <File id="C1FE5A54-75C4-438D-A72B-E4CC21C83CDD/f:App.config" caret="125" fromTop="4" />
+      <File id="F2588C2C-84DD-4AD7-8163-51426CE5F544/d:Fakes/f:FakeInvoiceRepository.cs" caret="268" fromTop="10" />
+      <File id="C1FE5A54-75C4-438D-A72B-E4CC21C83CDD/f:ExtractShould.cs" caret="330" fromTop="12" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Interfaces/f:IEmployeeRepository.cs" caret="140" fromTop="4" />
+      <File id="F2588C2C-84DD-4AD7-8163-51426CE5F544/d:Fakes/f:FakeEmployeeRepository.cs" caret="460" fromTop="15" />
+      <File id="F2588C2C-84DD-4AD7-8163-51426CE5F544/f:ExtractShould.cs" caret="1271" fromTop="38" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/f:ExtractionResult.cs" caret="230" fromTop="8" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/f:Format.cs" caret="139" fromTop="3" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Domain/f:FreightByShipper.cs" caret="245" fromTop="10" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Impl/f:SqlEmployeeRepository.cs" caret="0" fromTop="0" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Interfaces/f:IInvoiceRepository.cs" caret="0" fromTop="0" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Interfaces/f:IFreightByShipperRepository.cs" caret="94" fromTop="2" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Interfaces/f:IEmployeeBonusRepository.cs" caret="136" fromTop="4" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Impl/f:SqlFreightByShipperRepository.cs" caret="1387" fromTop="31" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Impl/f:SqlEmployeeBonusRepository.cs" caret="389" fromTop="11" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/f:Northwind.Designer.cs" caret="25805" fromTop="19" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Domain/f:Invoice.cs" caret="121" fromTop="5" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Impl/f:SqlInvoiceRepository.cs" caret="905" fromTop="20" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Services/f:ExtractionService.cs" caret="1311" fromTop="30" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Services/f:LoadService.cs" caret="1048" fromTop="11" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/f:Program.cs" caret="1393" fromTop="47" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Domain/f:Employee.cs" caret="346" fromTop="11" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Services/f:TransformService.cs" caret="387" fromTop="14" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Impl/f:SqlFreightByShipperRepository.cs" caret="1742" fromTop="4" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Domain/f:Employee.cs" caret="753" fromTop="24" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Domain/f:Employee.cs" caret="809" fromTop="26" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Domain/f:Employee.cs" caret="472" fromTop="14" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Services/f:ExtractionService.cs" caret="1636" fromTop="29" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Services/f:LoadService.cs" caret="2067" fromTop="4" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Services/f:LoadService.cs" caret="2067" fromTop="15" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Services/f:LoadService.cs" caret="2067" fromTop="29" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Services/f:LoadService.cs" caret="2067" fromTop="77" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Services/f:LoadService.cs" caret="1311" fromTop="26" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Impl/f:SqlFreightByShipperRepository.cs" caret="1742" fromTop="39" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Services/f:LoadService.cs" caret="217" fromTop="6" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Interfaces/f:IFreightByShipperRepository.cs" caret="94" fromTop="2" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Interfaces/f:IEmployeeBonusRepository.cs" caret="217" fromTop="6" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Impl/f:SqlEmployeeBonusRepository.cs" caret="1597" fromTop="3" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/f:Northwind.Designer.cs" caret="25805" fromTop="29" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Impl/f:SqlFreightByShipperRepository.cs" caret="1387" fromTop="31" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Impl/f:SqlEmployeeBonusRepository.cs" caret="1597" fromTop="33" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Impl/f:SqlEmployeeBonusRepository.cs" caret="1597" fromTop="38" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Services/f:LoadService.cs" caret="614" fromTop="9" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Services/f:LoadService.cs" caret="994" fromTop="13" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Services/f:LoadService.cs" caret="1970" fromTop="23" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/f:Northwind.Designer.cs" caret="25810" fromTop="19" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Domain/f:Invoice.cs" caret="121" fromTop="5" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Impl/f:SqlInvoiceRepository.cs" caret="905" fromTop="20" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Services/f:TransformService.cs" caret="770" fromTop="24" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Services/f:ExtractionService.cs" caret="1311" fromTop="30" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Services/f:LoadService.cs" caret="1887" fromTop="28" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Services/f:TransformService.cs" caret="1979" fromTop="43" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/d:Services/f:TransformService.cs" caret="2147" fromTop="47" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.7\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Console`0" priority="11" />
+      <Item value="DateTime`0" priority="12" />
+      <Item value="var" priority="30" />
+      <Item value="ExtractTransformLoad" priority="0" />
+      <Item value="new" priority="30" />
+      <Item value="myConnection" priority="2" />
+      <Item value="SqlCommand`0" priority="0" />
+      <Item value="myQuery" priority="0" />
+      <Item value="myCommand" priority="2" />
+      <Item value="while" priority="0" />
+      <Item value="myReader" priority="4" />
+      <Item value="SqlParameter" priority="0" />
+      <Item value="public" priority="21" />
+      <Item value="class" priority="5" />
+      <Item value="string" priority="9" />
+      <Item value="decimal" priority="3" />
+      <Item value="static" priority="6" />
+      <Item value="Dictionary" priority="0" />
+      <Item value="private" priority="5" />
+      <Item value="List" priority="7" />
+      <Item value="SqlDataAdapter`0" priority="0" />
+      <Item value="DataTable`0" priority="1" />
+      <Item value="_invoiceTable" priority="5" />
+      <Item value="myAdapter" priority="0" />
+      <Item value="foreach" priority="5" />
+      <Item value="totalFreight" priority="4" />
+      <Item value="DataView`0" priority="0" />
+      <Item value="true" priority="8" />
+      <Item value="for" priority="0" />
+      <Item value="shippers" priority="2" />
+      <Item value="DataRow`0" priority="0" />
+      <Item value="LdapStyleUriParser`0" priority="0" />
+      <Item value="FreightByShipper`0" priority="4" />
+      <Item value="freightByShipperList" priority="0" />
+      <Item value="FreightByShipper" priority="0" />
+      <Item value="ShipperName" priority="3" />
+      <Item value="row" priority="2" />
+      <Item value="freightByShipper" priority="14" />
+      <Item value="record" priority="0" />
+      <Item value="shipper" priority="1" />
+      <Item value="if" priority="4" />
+      <Item value="_freightByShipperList" priority="2" />
+      <Item value="String`0" priority="0" />
+      <Item value="bool" priority="7" />
+      <Item value="_employeeTable" priority="1" />
+      <Item value="Employee`0" priority="13" />
+      <Item value="Name" priority="1" />
+      <Item value="employee" priority="19" />
+      <Item value="int" priority="3" />
+      <Item value="else" priority="1" />
+      <Item value="false" priority="1" />
+      <Item value="in" priority="0" />
+      <Item value="_employees" priority="1" />
+      <Item value="Northwind" priority="4" />
+      <Item value="Entities" priority="3" />
+      <Item value="Fakes" priority="0" />
+      <Item value="Assert`0" priority="0" />
+      <Item value="invoiceRepository" priority="0" />
+      <Item value="employeeRepository" priority="0" />
+      <Item value="using" priority="5" />
+      <Item value="db" priority="1" />
+      <Item value="from" priority="4" />
+      <Item value="Employee" priority="3" />
+      <Item value="context" priority="8" />
+      <Item value="select" priority="5" />
+      <Item value="e" priority="7" />
+      <Item value="return" priority="10" />
+      <Item value="employees" priority="0" />
+      <Item value="T`0" priority="1" />
+      <Item value="IRepository" priority="6" />
+      <Item value="let" priority="0" />
+      <Item value="IsManager" priority="0" />
+      <Item value="where" priority="4" />
+      <Item value="e2" priority="1" />
+      <Item value="IInvoiceRepository`0" priority="0" />
+      <Item value="Invoice`0" priority="5" />
+      <Item value="ShipName" priority="0" />
+      <Item value="ShipAddress" priority="0" />
+      <Item value="ShipCity" priority="0" />
+      <Item value="IQueryable`0" priority="1" />
+      <Item value="i" priority="0" />
+      <Item value="OrderDate" priority="0" />
+      <Item value="invoice" priority="10" />
+      <Item value="myService" priority="2" />
+      <Item value="result" priority="0" />
+      <Item value="ExtractionResult`0" priority="1" />
+      <Item value="FakeEmployeeRepository`0" priority="0" />
+      <Item value="List`0" priority="0" />
+      <Item value="System" priority="2" />
+      <Item value="Linq" priority="2" />
+      <Item value="Collections" priority="0" />
+      <Item value="Generic" priority="0" />
+      <Item value="WasCalled" priority="1" />
+      <Item value="IEnumerable" priority="3" />
+      <Item value="filter" priority="0" />
+      <Item value="initialResult" priority="1" />
+      <Item value="minimumOrderDate" priority="0" />
+      <Item value="DateTime" priority="0" />
+      <Item value="It`0" priority="0" />
+      <Item value="IEmployeeRepository`0" priority="1" />
+      <Item value="interface" priority="1" />
+      <Item value="void" priority="2" />
+      <Item value="_freightShipperList" priority="0" />
+      <Item value="_extractionResult" priority="1" />
+      <Item value="group" priority="0" />
+      <Item value="byte" priority="0" />
+      <Item value="into" priority="0" />
+      <Item value="Freight" priority="2" />
+      <Item value="extractionResult" priority="2" />
+      <Item value="TransformResult" priority="0" />
+      <Item value="ctor" priority="3" />
+      <Item value="this" priority="1" />
+      <Item value="AppDomainManager`0" priority="0" />
+      <Item value="IsManager`0" priority="0" />
+      <Item value="TransformService`0" priority="0" />
+      <Item value="TransformResult`0" priority="1" />
+      <Item value="_transformResult" priority="3" />
+      <Item value="Employees" priority="1" />
+      <Item value="LoadService`0" priority="0" />
+      <Item value="transformResult" priority="0" />
+      <Item value="IFreightByShipperRepository`0" priority="0" />
+      <Item value="freightByShipperRepository" priority="0" />
+      <Item value="_freightByShipperRepository" priority="0" />
+      <Item value="override" priority="1" />
+      <Item value="const" priority="0" />
+      <Item value="Format`0" priority="1" />
+      <Item value="summary" priority="0" />
+      <Item value="TransactionScope" priority="0" />
+      <Item value="runDate" priority="2" />
+      <Item value="freightSummary" priority="3" />
+      <Item value="FreightSummary`0" priority="1" />
+      <Item value="RunDate" priority="0" />
+      <Item value="scope" priority="0" />
+      <Item value="f" priority="0" />
+      <Item value="FreightByShippers" priority="0" />
+      <Item value="summaryToDelete" priority="0" />
+      <Item value="Interfaces" priority="0" />
+      <Item value="Domain" priority="0" />
+      <Item value="bonus" priority="0" />
+      <Item value="EmployeeName" priority="0" />
+      <Item value="Bonus" priority="0" />
+      <Item value="IEmployeeBonusRepository`0" priority="0" />
+      <Item value="employeeBonusRepository" priority="0" />
+      <Item value="SqlEmployeeBonusRepository`0" priority="0" />
+      <Item value="employeesWithBonus" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="BackgroundColor" priority="0" />
+      <Item value="WriteLine`0" priority="6" />
+      <Item value="ReadLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="1" />
+      <Item value="Today" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlConnection">
+      <Item value="ConnectionString" priority="0" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlCommand">
+      <Item value="ExecuteReader`0" priority="0" />
+      <Item value="Parameters" priority="0" />
+      <Item value="ExecuteNonQuery`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlDataReader">
+      <Item value="Read`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="Equals`0" priority="0" />
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlParameterCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlDataAdapter">
+      <Item value="Fill`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataTable">
+      <Item value="Rows" priority="2" />
+      <Item value="Select`0" priority="0" />
+      <Item value="Compute`0" priority="0" />
+      <Item value="DefaultView" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataView">
+      <Item value="ToTable`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="1" />
+      <Item value="Count" priority="0" />
+      <Item value="AsQueryable`0" priority="0" />
+      <Item value="Sum`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExtractTransformLoad.FreightByShipper">
+      <Item value="ShipperName" priority="2" />
+      <Item value="Freight" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExtractTransformLoad.Program+Employee">
+      <Item value="IsManager" priority="3" />
+      <Item value="Bonus" priority="3" />
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="That`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Northwind.Entities.NorthwindEntities">
+      <Item value="Employees" priority="1" />
+      <Item value="FreightSummaries" priority="2" />
+      <Item value="DeleteObject`0" priority="0" />
+      <Item value="SaveChanges`0" priority="0" />
+      <Item value="EmployeeBonus" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Northwind.Entities.Employee">
+      <Item value="FirstName" priority="0" />
+      <Item value="LastName" priority="0" />
+      <Item value="ReportsTo" priority="0" />
+      <Item value="EmployeeID" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="Count`1" priority="1" />
+      <Item value="AsEnumerable`1" priority="4" />
+      <Item value="Where`1" priority="0" />
+      <Item value="ToList`1" priority="0" />
+      <Item value="FirstOrDefault`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Northwind.Entities.Invoice">
+      <Item value="ShipName" priority="0" />
+      <Item value="ShipAddress" priority="0" />
+      <Item value="ShipCity" priority="0" />
+      <Item value="OrderDate" priority="1" />
+      <Item value="Freight" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExtractTransformLoad.ExtractionResult">
+      <Item value="Invoices" priority="4" />
+      <Item value="Employees" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="Value" priority="1" />
+      <Item value="HasValue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExtractTransformLoad.Domain.Invoice">
+      <Item value="ShipName" priority="4" />
+      <Item value="ShipAddress" priority="0" />
+      <Item value="ShipCity" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExtractTransformLoad.Domain.Employee">
+      <Item value="Name" priority="2" />
+      <Item value="Bonus" priority="1" />
+      <Item value="IsManager" priority="0" />
+      <Item value="GetType`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExtractTransformLoad.Services.ExtractionService">
+      <Item value="Extract`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="AsEnumerable`1" priority="0" />
+      <Item value="ToList`1" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Moq.Mock`1">
+      <Item value="VerifyAll`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Moq.It">
+      <Item value="IsAny`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Distinct`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IGrouping`2">
+      <Item value="Key" priority="0" />
+      <Item value="Sum`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExtractTransformLoad.Domain.FreightByShipper">
+      <Item value="Freight" priority="2" />
+      <Item value="ShipperName" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExtractTransformLoad.TransformService">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExtractTransformLoad.TransformResult">
+      <Item value="FreightByShippers" priority="0" />
+      <Item value="Employees" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExtractTransformLoad.IFreightByShipperRepository">
+      <Item value="DeleteAndInsert`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@ExtractTransformLoad.Format">
+      <Item value="FreightFormatString" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Objects.ObjectSet`1">
+      <Item value="AddObject`0" priority="0" />
+      <Item value="Where`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Data.Objects.SaveOptions">
+      <Item value="AcceptAllChangesAfterSave" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Transactions.TransactionScope">
+      <Item value="Complete`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.Objects.ObjectQuery`1">
+      <Item value="Select`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Northwind.Entities.FreightSummary">
+      <Item value="Freight" priority="0" />
+      <Item value="RunDate" priority="0" />
+      <Item value="ShipperName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Northwind.Entities.EmployeeBonu">
+      <Item value="Date" priority="0" />
+      <Item value="EmployeeName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

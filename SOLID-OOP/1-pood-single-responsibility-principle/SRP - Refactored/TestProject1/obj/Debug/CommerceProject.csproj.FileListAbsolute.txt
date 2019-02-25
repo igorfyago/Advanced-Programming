@@ -1,0 +1,10 @@
+C:\Users\Steve\Documents\My Projects\PluralSight\001 - Single Responsibility Principle\SRP\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Documents\My Projects\PluralSight\001 - Single Responsibility Principle\SRP\TestProject1\bin\Debug\CommerceProject.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\001 - Single Responsibility Principle\SRP\TestProject1\bin\Debug\CommerceProject.pdb
+C:\Users\Steve\Documents\My Projects\PluralSight\001 - Single Responsibility Principle\SRP\TestProject1\obj\Debug\CommerceProject.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\001 - Single Responsibility Principle\SRP\TestProject1\obj\Debug\CommerceProject.pdb
+C:\Users\Steve\Documents\My Projects\PluralSight\001 - Single Responsibility Principle\SRP - Copy\TestProject1\bin\Debug\CommerceProject.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\001 - Single Responsibility Principle\SRP - Copy\TestProject1\bin\Debug\CommerceProject.pdb
+C:\Users\Steve\Documents\My Projects\PluralSight\001 - Single Responsibility Principle\SRP - Copy\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Documents\My Projects\PluralSight\001 - Single Responsibility Principle\SRP - Copy\TestProject1\obj\Debug\CommerceProject.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\001 - Single Responsibility Principle\SRP - Copy\TestProject1\obj\Debug\CommerceProject.pdb

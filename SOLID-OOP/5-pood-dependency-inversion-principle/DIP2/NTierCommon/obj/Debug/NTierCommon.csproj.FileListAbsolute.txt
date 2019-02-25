@@ -1,0 +1,5 @@
+C:\Dev\SteveSmith\N-Tier Development In .NET\trunk\src\NTierCommon\bin\Debug\NTier.Common.dll
+C:\Dev\SteveSmith\N-Tier Development In .NET\trunk\src\NTierCommon\bin\Debug\NTier.Common.pdb
+C:\Dev\SteveSmith\N-Tier Development In .NET\trunk\src\NTierCommon\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\SteveSmith\N-Tier Development In .NET\trunk\src\NTierCommon\obj\Debug\NTier.Common.dll
+C:\Dev\SteveSmith\N-Tier Development In .NET\trunk\src\NTierCommon\obj\Debug\NTier.Common.pdb

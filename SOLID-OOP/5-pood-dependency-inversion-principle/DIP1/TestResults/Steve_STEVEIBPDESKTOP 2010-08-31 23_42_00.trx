@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="59b177e6-76c5-4dd5-a8f2-6dd9ee9c1705" name="Steve@STEVEIBPDESKTOP 2010-08-31 23:42:00" runUser="SteveIBPDesktop\Steve" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="35acf09e-fec5-4d96-8fa2-c858d3f35565">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Steve_STEVEIBPDESKTOP 2010-08-31 23_42_00" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-08-31T23:42:00.6291250-04:00" queuing="2010-08-31T23:42:00.6359609-04:00" start="2010-08-31T23:42:00.6554922-04:00" finish="2010-08-31T23:42:01.2951406-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="NotFailWithNoItemsNoNotificationNoCreditCard" storage="c:\users\steve\documents\my projects\pluralsight\005 - dependency inversion principle\dip1\commerce\bin\debug\commerce.dll" id="2b0bbb02-d325-d5e1-4154-00885888cc51">
+      <Execution id="6a63022a-e47f-4364-8b34-411168c41667" />
+      <TestMethod codeBase="C:/Users/Steve/Documents/My Projects/PluralSight/005 - Dependency Inversion Principle/DIP1/Commerce/bin/Debug/Commerce.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Commerce.OrderCheckoutShould, Commerce, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="NotFailWithNoItemsNoNotificationNoCreditCard" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="2b0bbb02-d325-d5e1-4154-00885888cc51" executionId="6a63022a-e47f-4364-8b34-411168c41667" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="6a63022a-e47f-4364-8b34-411168c41667" testId="2b0bbb02-d325-d5e1-4154-00885888cc51" testName="NotFailWithNoItemsNoNotificationNoCreditCard" computerName="STEVEIBPDESKTOP" duration="00:00:00.0120151" startTime="2010-08-31T23:42:00.6564687-04:00" endTime="2010-08-31T23:42:00.8508047-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6a63022a-e47f-4364-8b34-411168c41667">
+    </UnitTestResult>
+  </Results>
+</TestRun>

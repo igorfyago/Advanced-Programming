@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="d194d49b-4345-4cfd-bde8-6c8451df8fe1" name="Steve@STEVEIBPDESKTOP 2010-09-19 11:36:21" runUser="SteveIBPDesktop\Steve" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="21cf4929-b6a7-4997-ab6a-e0cba12a2349">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Steve_STEVEIBPDESKTOP 2010-09-19 11_36_21">
+      <DeploymentItem filename="C:\Dev\SteveSmith\N-Tier Development In .NET\trunk\src\NTierBLL\bin\Debug\NTier.BLL.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-09-19T11:36:21.2890625-04:00" queuing="2010-09-19T11:36:21.2998046-04:00" start="2010-09-19T11:36:21.3037109-04:00" finish="2010-09-19T11:36:21.5205078-04:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ReturnUserIdForValidUser" storage="c:\dev\stevesmith\n-tier development in .net\trunk\src\ntier.unittests\bin\debug\ntier.unittests.dll" id="3a031a8d-ba64-61d6-0ee0-6ebee8f1030e">
+      <Execution id="b36a3267-c771-4253-8c63-122b6bec087a" />
+      <TestMethod codeBase="C:/Dev/SteveSmith/N-Tier Development In .NET/trunk/src/NTier.UnitTests/bin/Debug/NTier.UnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="NTier.UnitTests.SecurityLoginShould, NTier.UnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ReturnUserIdForValidUser" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="3a031a8d-ba64-61d6-0ee0-6ebee8f1030e" executionId="b36a3267-c771-4253-8c63-122b6bec087a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="b36a3267-c771-4253-8c63-122b6bec087a" testId="3a031a8d-ba64-61d6-0ee0-6ebee8f1030e" testName="ReturnUserIdForValidUser" computerName="STEVEIBPDESKTOP" duration="00:00:00.0312965" startTime="2010-09-19T11:36:21.3046875-04:00" endTime="2010-09-19T11:36:21.5107421-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b36a3267-c771-4253-8c63-122b6bec087a">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method NTier.UnitTests.SecurityLoginShould.ReturnUserIdForValidUser threw exception: 
+System.Configuration.ConfigurationException: Connection string value not set in web.config.</Message>
+          <StackTrace>    at NTier.DAL.DAL.get_ConnectionString() in C:\Dev\SteveSmith\N-Tier Development In .NET\trunk\src\NTierDAL\DAL.cs:line 39
+   at NTier.DAL.Security.Login(String email, String password) in C:\Dev\SteveSmith\N-Tier Development In .NET\trunk\src\NTierDAL\Security.cs:line 11
+   at NTier.BLL.Security.Login(String email, String password) in C:\Dev\SteveSmith\N-Tier Development In .NET\trunk\src\NTierBLL\Security.cs:line 9
+   at NTier.UnitTests.SecurityLoginShould.ReturnUserIdForValidUser() in C:\Dev\SteveSmith\N-Tier Development In .NET\trunk\src\NTier.UnitTests\SecurityLoginShould.cs:line 19
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

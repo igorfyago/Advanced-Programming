@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph GraphDirection="LeftToRight" Layout="Sugiyama" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="(@1 @6 @20 Member=Dispose)" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="Dispose" />
+    <Node Id="(@1 @6 @20 Member=get_AmountToCharge)" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_AmountToCharge" />
+    <Node Id="(@1 @6 @20 Member=get_CardNumber)" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_CardNumber" />
+    <Node Id="(@1 @6 @20 Member=get_Credentials)" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_Credentials" />
+    <Node Id="(@1 @6 @20 Member=get_ExpiresMonth)" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_ExpiresMonth" />
+    <Node Id="(@1 @6 @20 Member=get_ExpiresYear)" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_ExpiresYear" />
+    <Node Id="(@1 @6 @20 Member=get_NameOnCard)" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_NameOnCard" />
+    <Node Id="(@1 @8 @14 @37)" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="Order" />
+    <Node Id="(@1 @8 @16 @37)" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="OrderItem" />
+    <Node Id="(@1 @8 @16 Member=(Name=set_Quantity OverloadingParameters=[(@3 @4 Type=Int32)]))" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_Quantity" />
+    <Node Id="(@1 @8 @16 Member=(Name=set_Sku @27))" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_Sku" />
+    <Node Id="(@1 @8 @18 @37)" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="PaymentDetails" />
+    <Node Id="(@1 @8 @18 Member=(Name=set_CardholderName @27))" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_CardholderName" />
+    <Node Id="(@1 @8 @18 Member=(Name=set_CreditCardNumber @27))" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_CreditCardNumber" />
+    <Node Id="(@1 @8 @18 Member=(Name=set_ExpiresMonth @27))" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_ExpiresMonth" />
+    <Node Id="(@1 @8 @18 Member=(Name=set_ExpiresYear @27))" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_ExpiresYear" />
+    <Node Id="(@1 @8 @18 Member=(Name=set_PaymentMethod OverloadingParameters=[@22]))" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_PaymentMethod" />
+    <Node Id="(@1 @8 @9 Member=(Name=set_CustomerEmail @27))" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_CustomerEmail" />
+    <Node Id="(@1 @8 @9 Member=(Name=set_TotalAmount OverloadingParameters=[(@3 @4 Type=Decimal)]))" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_TotalAmount" />
+    <Node Id="@10" Category="CodeSchema_Class" CodeSchemaProperty_IsPublic="True" Group="Collapsed" Label="Cart" />
+    <Node Id="@11" Category="CodeSchema_Class" CodeSchemaProperty_IsPublic="True" Group="Collapsed" Label="InsufficientInventoryException" />
+    <Node Id="@12" Category="CodeSchema_Class" CodeSchemaProperty_IsPublic="True" Group="Collapsed" Label="InventorySystem" />
+    <Node Id="@13" Category="CodeSchema_Class" CodeSchemaProperty_IsPublic="True" Group="Collapsed" Label="Logger" />
+    <Node Id="@15" Category="CodeSchema_Class" CodeSchemaProperty_IsPublic="True" Group="Collapsed" Label="Order" />
+    <Node Id="@17" Category="CodeSchema_Class" CodeSchemaProperty_IsPublic="True" Group="Collapsed" Label="OrderItem" />
+    <Node Id="@19" Category="CodeSchema_Class" CodeSchemaProperty_IsPublic="True" Group="Collapsed" Label="PaymentDetails" />
+    <Node Id="@2" Category="CodeSchema_Class" CodeSchemaProperty_IsPublic="True" Group="Collapsed" Label="OrderException" />
+    <Node Id="@21" Category="CodeSchema_Class" CodeSchemaProperty_IsPublic="True" Group="Collapsed" Label="PaymentGateway" />
+    <Node Id="@22" Category="CodeSchema_Enum" CodeSchemaProperty_IsPublic="True" Group="Collapsed" Label="PaymentMethod" />
+    <Node Id="@23" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_Items" />
+    <Node Id="@24" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="NotifyCustomer" />
+    <Node Id="@25" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="ReserveInventory" />
+    <Node Id="@26" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_AmountToCharge" />
+    <Node Id="@28" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_CardNumber" />
+    <Node Id="@29" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_Credentials" />
+    <Node Id="@30" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_ExpiresMonth" />
+    <Node Id="@31" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_ExpiresYear" />
+    <Node Id="@32" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="set_NameOnCard" />
+    <Node Id="@33" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="ChargeCard" />
+    <Node Id="@34" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="Error" />
+    <Node Id="@35" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="Reserve" />
+    <Node Id="@36" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="Checkout" />
+    <Node Id="@38" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="AvsMismatchException" />
+    <Node Id="@39" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="Cart" />
+    <Node Id="@40" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="InsufficientInventoryException" />
+    <Node Id="@41" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="InventorySystem" />
+    <Node Id="@42" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="PaymentGateway" />
+    <Node Id="@43" Category="CodeSchema_Method" CodeSchemaProperty_IsPublic="True" Label="Charge" />
+    <Node Id="@44" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_CardholderName" />
+    <Node Id="@45" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_CreditCardNumber" />
+    <Node Id="@46" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_CustomerEmail" />
+    <Node Id="@47" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_ExpiresMonth" />
+    <Node Id="@48" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_ExpiresYear" />
+    <Node Id="@49" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_Items" />
+    <Node Id="@5" Category="CodeSchema_Method" CodeSchemaProperty_IsConstructor="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="OrderException" />
+    <Node Id="@50" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_PaymentMethod" />
+    <Node Id="@51" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_Quantity" />
+    <Node Id="@52" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_Sku" />
+    <Node Id="@53" Category="CodeSchema_Method" CodeSchemaProperty_IsCompilerGenerated="True" CodeSchemaProperty_IsPublic="True" CodeSchemaProperty_IsSpecialName="True" Label="get_TotalAmount" />
+    <Node Id="@7" Category="CodeSchema_Class" CodeSchemaProperty_IsPublic="True" Group="Collapsed" Label="AvsMismatchException" />
+  </Nodes>
+  <Links>
+    <Link Source="@10" Target="(@1 @8 @9 Member=(Name=set_CustomerEmail @27))" Category="Contains" />
+    <Link Source="@10" Target="(@1 @8 @9 Member=(Name=set_TotalAmount OverloadingParameters=[(@3 @4 Type=Decimal)]))" Category="Contains" />
+    <Link Source="@10" Target="@23" Category="Contains" />
+    <Link Source="@10" Target="@39" Category="Contains" />
+    <Link Source="@10" Target="@46" Category="Contains" />
+    <Link Source="@10" Target="@49" Category="Contains" />
+    <Link Source="@10" Target="@53" Category="Contains" />
+    <Link Source="@11" Target="@40" Category="Contains" />
+    <Link Source="@12" Target="@35" Category="Contains" />
+    <Link Source="@12" Target="@41" Category="Contains" />
+    <Link Source="@13" Target="@34" Category="Contains" />
+    <Link Source="@15" Target="(@1 @8 @14 @37)" Category="Contains" />
+    <Link Source="@15" Target="@24" Category="Contains" />
+    <Link Source="@15" Target="@25" Category="Contains" />
+    <Link Source="@15" Target="@33" Category="Contains" />
+    <Link Source="@15" Target="@36" Category="Contains" />
+    <Link Source="@17" Target="(@1 @8 @16 @37)" Category="Contains" />
+    <Link Source="@17" Target="(@1 @8 @16 Member=(Name=set_Quantity OverloadingParameters=[(@3 @4 Type=Int32)]))" Category="Contains" />
+    <Link Source="@17" Target="(@1 @8 @16 Member=(Name=set_Sku @27))" Category="Contains" />
+    <Link Source="@17" Target="@51" Category="Contains" />
+    <Link Source="@17" Target="@52" Category="Contains" />
+    <Link Source="@19" Target="(@1 @8 @18 @37)" Category="Contains" />
+    <Link Source="@19" Target="(@1 @8 @18 Member=(Name=set_CardholderName @27))" Category="Contains" />
+    <Link Source="@19" Target="(@1 @8 @18 Member=(Name=set_CreditCardNumber @27))" Category="Contains" />
+    <Link Source="@19" Target="(@1 @8 @18 Member=(Name=set_ExpiresMonth @27))" Category="Contains" />
+    <Link Source="@19" Target="(@1 @8 @18 Member=(Name=set_ExpiresYear @27))" Category="Contains" />
+    <Link Source="@19" Target="(@1 @8 @18 Member=(Name=set_PaymentMethod OverloadingParameters=[@22]))" Category="Contains" />
+    <Link Source="@19" Target="@22" Category="References">
+      <Category Ref="CodeSchema_ReturnTypeLink" />
+    </Link>
+    <Link Source="@19" Target="@44" Category="Contains" />
+    <Link Source="@19" Target="@45" Category="Contains" />
+    <Link Source="@19" Target="@47" Category="Contains" />
+    <Link Source="@19" Target="@48" Category="Contains" />
+    <Link Source="@19" Target="@50" Category="Contains" />
+    <Link Source="@2" Target="@5" Category="Contains" />
+    <Link Source="@21" Target="(@1 @6 @20 Member=Dispose)" Category="Contains" />
+    <Link Source="@21" Target="(@1 @6 @20 Member=get_AmountToCharge)" Category="Contains" />
+    <Link Source="@21" Target="(@1 @6 @20 Member=get_CardNumber)" Category="Contains" />
+    <Link Source="@21" Target="(@1 @6 @20 Member=get_Credentials)" Category="Contains" />
+    <Link Source="@21" Target="(@1 @6 @20 Member=get_ExpiresMonth)" Category="Contains" />
+    <Link Source="@21" Target="(@1 @6 @20 Member=get_ExpiresYear)" Category="Contains" />
+    <Link Source="@21" Target="(@1 @6 @20 Member=get_NameOnCard)" Category="Contains" />
+    <Link Source="@21" Target="@26" Category="Contains" />
+    <Link Source="@21" Target="@28" Category="Contains" />
+    <Link Source="@21" Target="@29" Category="Contains" />
+    <Link Source="@21" Target="@30" Category="Contains" />
+    <Link Source="@21" Target="@31" Category="Contains" />
+    <Link Source="@21" Target="@32" Category="Contains" />
+    <Link Source="@21" Target="@42" Category="Contains" />
+    <Link Source="@21" Target="@43" Category="Contains" />
+    <Link Source="@22" Target="@22" Category="References" />
+    <Link Source="@24" Target="@34" Category="CodeSchema_Calls" />
+    <Link Source="@24" Target="@46" Category="CodeSchema_Calls" />
+    <Link Source="@25" Target="@11" Category="References" />
+    <Link Source="@25" Target="@12" Category="References" />
+    <Link Source="@25" Target="@17" Category="References" />
+    <Link Source="@25" Target="@35" Category="CodeSchema_Calls" />
+    <Link Source="@25" Target="@41" Category="CodeSchema_Calls" />
+    <Link Source="@25" Target="@49" Category="CodeSchema_Calls" />
+    <Link Source="@25" Target="@5" Category="CodeSchema_Calls" />
+    <Link Source="@25" Target="@51" Category="CodeSchema_Calls" />
+    <Link Source="@25" Target="@52" Category="CodeSchema_Calls" />
+    <Link Source="@33" Target="@21" Category="References" />
+    <Link Source="@33" Target="@26" Category="CodeSchema_Calls" />
+    <Link Source="@33" Target="@28" Category="CodeSchema_Calls" />
+    <Link Source="@33" Target="@29" Category="CodeSchema_Calls" />
+    <Link Source="@33" Target="@30" Category="CodeSchema_Calls" />
+    <Link Source="@33" Target="@31" Category="CodeSchema_Calls" />
+    <Link Source="@33" Target="@32" Category="CodeSchema_Calls" />
+    <Link Source="@33" Target="@42" Category="CodeSchema_Calls" />
+    <Link Source="@33" Target="@43" Category="CodeSchema_Calls" />
+    <Link Source="@33" Target="@44" Category="CodeSchema_Calls" />
+    <Link Source="@33" Target="@45" Category="CodeSchema_Calls" />
+    <Link Source="@33" Target="@47" Category="CodeSchema_Calls" />
+    <Link Source="@33" Target="@48" Category="CodeSchema_Calls" />
+    <Link Source="@33" Target="@5" Category="CodeSchema_Calls" />
+    <Link Source="@33" Target="@53" Category="CodeSchema_Calls" />
+    <Link Source="@33" Target="@7" Category="References" />
+    <Link Source="@35" Target="@40" Category="CodeSchema_Calls" />
+    <Link Source="@36" Target="@24" Category="CodeSchema_Calls" />
+    <Link Source="@36" Target="@25" Category="CodeSchema_Calls" />
+    <Link Source="@36" Target="@33" Category="CodeSchema_Calls" />
+    <Link Source="@36" Target="@50" Category="CodeSchema_Calls" />
+    <Link Source="@39" Target="@23" Category="CodeSchema_Calls" />
+    <Link Source="@43" Target="@38" Category="CodeSchema_Calls" />
+    <Link Source="@50" Target="@22" Category="References">
+      <Category Ref="CodeSchema_ReturnTypeLink" />
+    </Link>
+    <Link Source="@7" Target="@38" Category="Contains" />
+  </Links>
+  <Categories>
+    <Category Id="CodeSchema_Block" Label="Block" BasedOn="CodeSchema_Statement" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" IsProviderRoot="False" NavigationActionLabel="Blocks" />
+    <Category Id="CodeSchema_Calls" Label="Calls" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Called By" OutgoingActionLabel="Calls" />
+    <Category Id="CodeSchema_Class" Label="Class" BasedOn="CodeSchema_Type" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Member" Icon="CodeSchema_Class" IsProviderRoot="False" NavigationActionLabel="Classes" />
+    <Category Id="CodeSchema_Enum" Label="Enum" BasedOn="CodeSchema_Type" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Member" Icon="CodeSchema_Enum" IsProviderRoot="False" NavigationActionLabel="Enums" />
+    <Category Id="CodeSchema_Member" Label="Member" BasedOn="CodeSchema_Block" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" Icon="CodeSchema_Field" IsProviderRoot="False" NavigationActionLabel="Members" />
+    <Category Id="CodeSchema_Method" Label="Method" BasedOn="CodeSchema_Member" CanBeDataDriven="True" DefaultAction="Link:Forward:CodeSchema_Calls" Icon="CodeSchema_Method" IsProviderRoot="False" NavigationActionLabel="Methods" />
+    <Category Id="CodeSchema_ReturnTypeLink" Label="Return" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Return types" OutgoingActionLabel="Return types" />
+    <Category Id="CodeSchema_Statement" Label="Statement" CanBeDataDriven="True" DefaultAction="Microsoft.Contains" IsProviderRoot="False" NavigationActionLabel="Statement" />
+    <Category Id="CodeSchema_Type" Label="Type" BasedOn="CodeSchema_Block" CanBeDataDriven="True" DefaultAction="Node:Both:CodeSchema_Member" Icon="CodeSchema_Class" IsProviderRoot="False" NavigationActionLabel="Types" />
+    <Category Id="Contains" Label="Contains" CanBeDataDriven="False" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Contained By" IsContainment="True" OutgoingActionLabel="Contains" />
+    <Category Id="References" Label="References" CanBeDataDriven="True" CanLinkedNodesBeDataDriven="True" IncomingActionLabel="Referenced By" OutgoingActionLabel="References" />
+  </Categories>
+  <Properties>
+    <Property Id="CanBeDataDriven" Label="CanBeDataDriven" Description="CanBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CanLinkedNodesBeDataDriven" Label="CanLinkedNodesBeDataDriven" Description="CanLinkedNodesBeDataDriven" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsCompilerGenerated" Label="IsCompilerGenerated" Description="IsCompilerGenerated" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsConstructor" Label="IsConstructor" Description="IsConstructor" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsPublic" Label="IsPublic" Description="IsPublic" DataType="System.Boolean" />
+    <Property Id="CodeSchemaProperty_IsSpecialName" Label="IsSpecialName" Description="IsSpecialName" DataType="System.Boolean" />
+    <Property Id="DefaultAction" Label="DefaultAction" Description="DefaultAction" DataType="System.String" />
+    <Property Id="GraphDirection" DataType="Microsoft.VisualStudio.Progression.Layout.GraphDirection" />
+    <Property Id="Group" Label="Group" Description="Display the node as a group" DataType="Microsoft.VisualStudio.Progression.GraphModel.GroupStyle" />
+    <Property Id="Icon" Label="Icon" Description="Icon" DataType="System.String" />
+    <Property Id="IncomingActionLabel" Label="IncomingActionLabel" Description="IncomingActionLabel" DataType="System.String" />
+    <Property Id="IsContainment" DataType="System.Boolean" />
+    <Property Id="IsProviderRoot" Label="IsProviderRoot" Description="IsProviderRoot" DataType="System.Boolean" />
+    <Property Id="Label" Label="Label" Description="Displayable label of an Annotatable object" DataType="System.String" />
+    <Property Id="Layout" DataType="System.String" />
+    <Property Id="NavigationActionLabel" Label="NavigationActionLabel" Description="NavigationActionLabel" DataType="System.String" />
+    <Property Id="OutgoingActionLabel" Label="OutgoingActionLabel" Description="OutgoingActionLabel" DataType="System.String" />
+  </Properties>
+  <QualifiedNames>
+    <Name Id="Assembly" Label="Assembly" ValueType="Uri" />
+    <Name Id="GenericArguments" Label="Generic Arguments" ValueType="Microsoft.VisualStudio.Progression.GraphModel.QualifiedIdentifierArrayCollection" />
+    <Name Id="GenericParameterCount" Label="Generic Parameter Count" ValueType="System.String" />
+    <Name Id="Member" Label="Member" ValueType="System.Object" />
+    <Name Id="Name" Label="Name" ValueType="System.String" />
+    <Name Id="Namespace" Label="Namespace" ValueType="System.String" />
+    <Name Id="OverloadingParameters" Label="Parameter" ValueType="Microsoft.VisualStudio.Progression.GraphModel.QualifiedIdentifierArrayCollection" Formatter="NameValueNoEscape" />
+    <Name Id="Type" Label="Type" ValueType="System.Object" />
+  </QualifiedNames>
+  <Styles>
+    <Style TargetType="Node" GroupLabel="Assembly" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Assembly')" />
+      <Setter Property="Background" Value="#1C3068" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Namespace" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Namespace')" />
+      <Setter Property="Background" Value="#4A65A0" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Type" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Type')" />
+      <Setter Property="Background" Value="#D3DCEF" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Method" ValueLabel="Has category">
+      <Condition Expression="HasCategory('CodeSchema_Method')" />
+      <Setter Property="Background" Value="#FFE0E0E0" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Generics" ValueLabel="Has category">
+      <Condition Expression="HasCategory('Generics')" />
+      <Setter Property="Background" Value="#FFA080A0" />
+    </Style>
+    <Style TargetType="Node" GroupLabel="Externals" ValueLabel="Has category">
+      <Condition Expression="HasCategory('Externals')" />
+      <Setter Property="Background" Value="#FFA08080" />
+    </Style>
+  </Styles>
+  <IdentifierAliases>
+    <Alias n="1" Uri="Assembly=$(c1301d59-47b0-4d64-8a3c-97ac9354b845.OutputPathUri)" />
+    <Alias n="2" Id="(@1 Type=OrderException)" />
+    <Alias n="3" Uri="Assembly=$(FxReferenceAssembliesUri)/.NETFramework/v4.0/mscorlib.dll" />
+    <Alias n="4" Id="Namespace=System" />
+    <Alias n="5" Id="(@1 Type=OrderException Member=(Name=.ctor OverloadingParameters=[(@3 @4 Type=String),(@3 @4 Type=Exception)]))" />
+    <Alias n="6" Id="Namespace=Commerce.Services" />
+    <Alias n="7" Id="(@1 @6 Type=AvsMismatchException)" />
+    <Alias n="8" Id="Namespace=Commerce.Model" />
+    <Alias n="9" Id="Type=Cart" />
+    <Alias n="10" Id="(@1 @8 @9)" />
+    <Alias n="11" Id="(@1 @6 Type=InsufficientInventoryException)" />
+    <Alias n="12" Id="(@1 @6 Type=InventorySystem)" />
+    <Alias n="13" Id="(@1 Namespace=Commerce.Utility Type=Logger)" />
+    <Alias n="14" Id="Type=Order" />
+    <Alias n="15" Id="(@1 @8 @14)" />
+    <Alias n="16" Id="Type=OrderItem" />
+    <Alias n="17" Id="(@1 @8 @16)" />
+    <Alias n="18" Id="Type=PaymentDetails" />
+    <Alias n="19" Id="(@1 @8 @18)" />
+    <Alias n="20" Id="Type=PaymentGateway" />
+    <Alias n="21" Id="(@1 @6 @20)" />
+    <Alias n="22" Id="(@1 @8 Type=PaymentMethod)" />
+    <Alias n="23" Id="(@1 @8 @9 Member=(Name=set_Items OverloadingParameters=[(@3 Namespace=System.Collections.Generic Type=(Name=IEnumerable GenericParameterCount=1 GenericArguments=[@17]))]))" />
+    <Alias n="24" Id="(@1 @8 @14 Member=(Name=NotifyCustomer OverloadingParameters=[@10]))" />
+    <Alias n="25" Id="(@1 @8 @14 Member=(Name=ReserveInventory OverloadingParameters=[@10]))" />
+    <Alias n="26" Id="(@1 @6 @20 Member=(Name=set_AmountToCharge OverloadingParameters=[(@3 @4 Type=Decimal)]))" />
+    <Alias n="27" Id="OverloadingParameters=[(@3 @4 Type=String)]" />
+    <Alias n="28" Id="(@1 @6 @20 Member=(Name=set_CardNumber @27))" />
+    <Alias n="29" Id="(@1 @6 @20 Member=(Name=set_Credentials @27))" />
+    <Alias n="30" Id="(@1 @6 @20 Member=(Name=set_ExpiresMonth @27))" />
+    <Alias n="31" Id="(@1 @6 @20 Member=(Name=set_ExpiresYear @27))" />
+    <Alias n="32" Id="(@1 @6 @20 Member=(Name=set_NameOnCard @27))" />
+    <Alias n="33" Id="(@1 @8 @14 Member=(Name=ChargeCard OverloadingParameters=[@19,@10]))" />
+    <Alias n="34" Id="(@1 Namespace=Commerce.Utility Type=Logger Member=(Name=Error OverloadingParameters=[(@3 @4 Type=String),(@3 @4 Type=Exception)]))" />
+    <Alias n="35" Id="(@1 @6 Type=InventorySystem Member=(Name=Reserve OverloadingParameters=[(@3 @4 Type=String),(@3 @4 Type=Int32)]))" />
+    <Alias n="36" Id="(@1 @8 @14 Member=(Name=Checkout OverloadingParameters=[@10,@19,(@3 @4 Type=Boolean)]))" />
+    <Alias n="37" Id="Member=.ctor" />
+    <Alias n="38" Id="(@1 @6 Type=AvsMismatchException @37)" />
+    <Alias n="39" Id="(@1 @8 @9 @37)" />
+    <Alias n="40" Id="(@1 @6 Type=InsufficientInventoryException @37)" />
+    <Alias n="41" Id="(@1 @6 Type=InventorySystem @37)" />
+    <Alias n="42" Id="(@1 @6 @20 @37)" />
+    <Alias n="43" Id="(@1 @6 @20 Member=Charge)" />
+    <Alias n="44" Id="(@1 @8 @18 Member=get_CardholderName)" />
+    <Alias n="45" Id="(@1 @8 @18 Member=get_CreditCardNumber)" />
+    <Alias n="46" Id="(@1 @8 @9 Member=get_CustomerEmail)" />
+    <Alias n="47" Id="(@1 @8 @18 Member=get_ExpiresMonth)" />
+    <Alias n="48" Id="(@1 @8 @18 Member=get_ExpiresYear)" />
+    <Alias n="49" Id="(@1 @8 @9 Member=get_Items)" />
+    <Alias n="50" Id="(@1 @8 @18 Member=get_PaymentMethod)" />
+    <Alias n="51" Id="(@1 @8 @16 Member=get_Quantity)" />
+    <Alias n="52" Id="(@1 @8 @16 Member=get_Sku)" />
+    <Alias n="53" Id="(@1 @8 @9 Member=get_TotalAmount)" />
+  </IdentifierAliases>
+  <Paths>
+    <Path Id="c1301d59-47b0-4d64-8a3c-97ac9354b845.OutputPathUri" Value="file:///C:/Users/Steve/Documents/My Projects/PluralSight/005 - Dependency Inversion Principle/DIP1/Commerce/bin/Debug/Commerce.dll" />
+    <Path Id="FxReferenceAssembliesUri" Value="file:///C:/Program Files (x86)/Reference Assemblies/Microsoft/Framework" />
+  </Paths>
+</DirectedGraph>

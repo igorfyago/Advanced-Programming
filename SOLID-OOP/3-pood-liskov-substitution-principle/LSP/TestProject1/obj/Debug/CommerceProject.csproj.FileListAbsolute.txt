@@ -1,0 +1,10 @@
+C:\Users\Steve\Documents\My Projects\PluralSight\002 - Open Closed Principle\Demo\OCP\TestProject1\bin\Debug\CommerceProject.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\002 - Open Closed Principle\Demo\OCP\TestProject1\bin\Debug\CommerceProject.pdb
+C:\Users\Steve\Documents\My Projects\PluralSight\002 - Open Closed Principle\Demo\OCP\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Documents\My Projects\PluralSight\002 - Open Closed Principle\Demo\OCP\TestProject1\obj\Debug\CommerceProject.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\002 - Open Closed Principle\Demo\OCP\TestProject1\obj\Debug\CommerceProject.pdb
+C:\Users\Steve\Documents\My Projects\PluralSight\003 - Liskov Substitution Principle\Demo\LSP\TestProject1\bin\Debug\CommerceProject.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\003 - Liskov Substitution Principle\Demo\LSP\TestProject1\bin\Debug\CommerceProject.pdb
+C:\Users\Steve\Documents\My Projects\PluralSight\003 - Liskov Substitution Principle\Demo\LSP\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Documents\My Projects\PluralSight\003 - Liskov Substitution Principle\Demo\LSP\TestProject1\obj\Debug\CommerceProject.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\003 - Liskov Substitution Principle\Demo\LSP\TestProject1\obj\Debug\CommerceProject.pdb

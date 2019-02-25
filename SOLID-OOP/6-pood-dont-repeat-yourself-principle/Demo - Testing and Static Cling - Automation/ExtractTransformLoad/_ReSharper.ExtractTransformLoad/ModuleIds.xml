@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="AE8FA173-4C61-4D42-8109-1E9F010F7B7D" ModuleId="ExtractTransformLoad" />
+  <Module PersistentId="F2588C2C-84DD-4AD7-8163-51426CE5F544" ModuleId="UnitTests" />
+  <Module PersistentId="C1FE5A54-75C4-438D-A72B-E4CC21C83CDD" ModuleId="IntegrationTests" />
+</Modules>

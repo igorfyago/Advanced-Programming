@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="893ebfa4-7e04-4d13-845c-13262c1996eb"
+  name="Web Site" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <suppliersInternal>
+    <dependency
+      Id="5ff2beab-d568-4556-af24-81c9054d9ca1">
+      <classMoniker
+        Id="a36e3922-8d44-4230-8899-abd55d6163d6"
+        LastKnownName="Order"
+        LastKnownLocation="ModelingProject1.uml" />
+    </dependency>
+  </suppliersInternal>
+  <packagedElements>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="acce0d42-1858-4c17-9e97-1d07f274cd59"
+        LastKnownName="Package1"
+        LastKnownLocation="Package1_1106.uml" />
+    </packageHasNamedElement>
+  </packagedElements>
+</package>

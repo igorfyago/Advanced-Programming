@@ -1,0 +1,5 @@
+C:\Users\Steve\Documents\My Projects\PluralSight\003 - Liskov Substitution Principle\Demo\LSP\TestProject1\bin\Debug\ShapeTests.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\003 - Liskov Substitution Principle\Demo\LSP\TestProject1\bin\Debug\ShapeTests.pdb
+C:\Users\Steve\Documents\My Projects\PluralSight\003 - Liskov Substitution Principle\Demo\LSP\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Documents\My Projects\PluralSight\003 - Liskov Substitution Principle\Demo\LSP\TestProject1\obj\Debug\ShapeTests.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\003 - Liskov Substitution Principle\Demo\LSP\TestProject1\obj\Debug\ShapeTests.pdb

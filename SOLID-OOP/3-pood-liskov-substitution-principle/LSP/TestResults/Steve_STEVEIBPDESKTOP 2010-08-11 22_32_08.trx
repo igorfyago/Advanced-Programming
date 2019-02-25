@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="40b729c2-fd19-462a-9575-8b78668b50eb" name="Steve@STEVEIBPDESKTOP 2010-08-11 22:32:08" runUser="SteveIBPDesktop\Steve" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="554ba74f-6ef9-41e0-94ed-f41246adc3f4">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="Steve_STEVEIBPDESKTOP 2010-08-11 22_32_08" />
+  </TestSettings>
+  <Times creation="2010-08-11T22:32:08.3383750-04:00" queuing="2010-08-11T22:32:08.3784140-04:00" start="2010-08-11T22:32:08.3842734-04:00" finish="2010-08-11T22:32:08.6704062-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="3" executed="3" passed="3" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TwentyFor4X5ShapeFromRectangleAnd9For3X3Square" storage="c:\users\steve\documents\my projects\pluralsight\003 - liskov substitution principle\demo\lsp\testproject1\bin\debug\shapetests.dll" id="8178c62c-c672-a584-9263-6435aab94f01">
+      <Execution id="122775e2-84a0-485d-92b6-9063baba6200" />
+      <TestMethod codeBase="C:/Users/Steve/Documents/My Projects/PluralSight/003 - Liskov Substitution Principle/Demo/LSP/TestProject1/bin/Debug/ShapeTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ShapeTests.NoInherit, ShapeTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TwentyFor4X5ShapeFromRectangleAnd9For3X3Square" />
+    </UnitTest>
+    <UnitTest name="NineFor3X3Square" storage="c:\users\steve\documents\my projects\pluralsight\003 - liskov substitution principle\demo\lsp\testproject1\bin\debug\shapetests.dll" id="d20fefef-00f4-aa89-11bc-e95cd1d09be9">
+      <Execution id="004aee16-dbe4-46ef-ba13-24bf57a37524" />
+      <TestMethod codeBase="C:/Users/Steve/Documents/My Projects/PluralSight/003 - Liskov Substitution Principle/Demo/LSP/TestProject1/bin/Debug/ShapeTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ShapeTests.NoInherit, ShapeTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="NineFor3X3Square" />
+    </UnitTest>
+    <UnitTest name="SixFor2X3Rectangle" storage="c:\users\steve\documents\my projects\pluralsight\003 - liskov substitution principle\demo\lsp\testproject1\bin\debug\shapetests.dll" id="ba5613a9-ee23-08a7-2e52-f8ba0ec9864b">
+      <Execution id="693f8573-cec2-4268-8512-0ce102c1598a" />
+      <TestMethod codeBase="C:/Users/Steve/Documents/My Projects/PluralSight/003 - Liskov Substitution Principle/Demo/LSP/TestProject1/bin/Debug/ShapeTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ShapeTests.NoInherit, ShapeTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SixFor2X3Rectangle" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="8178c62c-c672-a584-9263-6435aab94f01" executionId="122775e2-84a0-485d-92b6-9063baba6200" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ba5613a9-ee23-08a7-2e52-f8ba0ec9864b" executionId="693f8573-cec2-4268-8512-0ce102c1598a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d20fefef-00f4-aa89-11bc-e95cd1d09be9" executionId="004aee16-dbe4-46ef-ba13-24bf57a37524" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="122775e2-84a0-485d-92b6-9063baba6200" testId="8178c62c-c672-a584-9263-6435aab94f01" testName="TwentyFor4X5ShapeFromRectangleAnd9For3X3Square" computerName="STEVEIBPDESKTOP" duration="00:00:00.0133956" startTime="2010-08-11T22:32:08.3862265-04:00" endTime="2010-08-11T22:32:08.5893515-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="122775e2-84a0-485d-92b6-9063baba6200">
+    </UnitTestResult>
+    <UnitTestResult executionId="693f8573-cec2-4268-8512-0ce102c1598a" testId="ba5613a9-ee23-08a7-2e52-f8ba0ec9864b" testName="SixFor2X3Rectangle" computerName="STEVEIBPDESKTOP" duration="00:00:00.0001658" startTime="2010-08-11T22:32:08.5903281-04:00" endTime="2010-08-11T22:32:08.5932578-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="693f8573-cec2-4268-8512-0ce102c1598a">
+    </UnitTestResult>
+    <UnitTestResult executionId="004aee16-dbe4-46ef-ba13-24bf57a37524" testId="d20fefef-00f4-aa89-11bc-e95cd1d09be9" testName="NineFor3X3Square" computerName="STEVEIBPDESKTOP" duration="00:00:00.0001444" startTime="2010-08-11T22:32:08.5942343-04:00" endTime="2010-08-11T22:32:08.5971640-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="004aee16-dbe4-46ef-ba13-24bf57a37524">
+    </UnitTestResult>
+  </Results>
+</TestRun>

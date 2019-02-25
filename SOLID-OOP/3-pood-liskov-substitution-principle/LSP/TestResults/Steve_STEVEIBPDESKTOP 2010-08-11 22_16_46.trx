@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="d450e666-cbd5-4bf6-ae49-17d609ffe3fb" name="Steve@STEVEIBPDESKTOP 2010-08-11 22:16:46" runUser="SteveIBPDesktop\Steve" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="7414e5b8-993d-41f7-9f09-c410a2e6a340">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="Steve_STEVEIBPDESKTOP 2010-08-11 22_16_46" />
+  </TestSettings>
+  <Times creation="2010-08-11T22:16:46.1098593-04:00" queuing="2010-08-11T22:16:46.1538046-04:00" start="2010-08-11T22:16:46.1616171-04:00" finish="2010-08-11T22:16:46.4125937-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="NineFor3X3Square" storage="c:\users\steve\documents\my projects\pluralsight\003 - liskov substitution principle\demo\lsp\testproject1\bin\debug\shapetests.dll" id="51fc9b5f-d88a-af00-5c14-75d4809f07f3">
+      <Execution id="27d6ba75-970b-4d9c-8eed-481a0f3fe4a8" />
+      <TestMethod codeBase="C:/Users/Steve/Documents/My Projects/PluralSight/003 - Liskov Substitution Principle/Demo/LSP/TestProject1/bin/Debug/ShapeTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ShapeTests.CalculateAreaShouldReturn, ShapeTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="NineFor3X3Square" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="51fc9b5f-d88a-af00-5c14-75d4809f07f3" executionId="27d6ba75-970b-4d9c-8eed-481a0f3fe4a8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="27d6ba75-970b-4d9c-8eed-481a0f3fe4a8" testId="51fc9b5f-d88a-af00-5c14-75d4809f07f3" testName="NineFor3X3Square" computerName="STEVEIBPDESKTOP" duration="00:00:00.0105324" startTime="2010-08-11T22:16:46.1674765-04:00" endTime="2010-08-11T22:16:46.3989218-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="27d6ba75-970b-4d9c-8eed-481a0f3fe4a8">
+    </UnitTestResult>
+  </Results>
+</TestRun>

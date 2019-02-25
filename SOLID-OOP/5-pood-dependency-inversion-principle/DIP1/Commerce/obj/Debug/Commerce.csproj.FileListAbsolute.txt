@@ -1,0 +1,5 @@
+C:\Users\Steve\Documents\My Projects\PluralSight\005 - Dependency Inversion Principle\DIP1\Commerce\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Documents\My Projects\PluralSight\005 - Dependency Inversion Principle\DIP1\Commerce\bin\Debug\Commerce.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\005 - Dependency Inversion Principle\DIP1\Commerce\bin\Debug\Commerce.pdb
+C:\Users\Steve\Documents\My Projects\PluralSight\005 - Dependency Inversion Principle\DIP1\Commerce\obj\Debug\Commerce.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\005 - Dependency Inversion Principle\DIP1\Commerce\obj\Debug\Commerce.pdb

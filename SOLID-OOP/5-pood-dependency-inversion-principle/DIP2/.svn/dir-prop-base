@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 57
+*.suo
+*.user
+_ReSharper.NTier
+*.testsettings
+TestResults
+
+END

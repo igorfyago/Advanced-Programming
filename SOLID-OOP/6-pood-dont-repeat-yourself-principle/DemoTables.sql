@@ -1,0 +1,58 @@
+USE [Northwind]
+GO
+
+/****** Object:  Table [dbo].[EmployeeBonus]    Script Date: 09/27/2010 08:57:33 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[EmployeeBonus](
+	[ID] [int] IDENTITY(1,1) NOT NULL,
+	[Date] [date] NULL,
+	[EmployeeName] [varchar](50) NULL,
+	[Bonus] [money] NULL,
+ CONSTRAINT [PK_EmployeeBonus] PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+USE [Northwind]
+GO
+
+/****** Object:  Table [dbo].[FreightSummary]    Script Date: 09/27/2010 08:58:02 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+SET ANSI_PADDING ON
+GO
+
+CREATE TABLE [dbo].[FreightSummary](
+	[ID] [int] IDENTITY(1,1) NOT NULL,
+	[RunDate] [date] NULL,
+	[ShipperName] [varchar](50) NULL,
+	[Freight] [money] NULL,
+ CONSTRAINT [PK_FreightSummary] PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX  = OFF, STATISTICS_NORECOMPUTE  = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS  = ON, ALLOW_PAGE_LOCKS  = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+

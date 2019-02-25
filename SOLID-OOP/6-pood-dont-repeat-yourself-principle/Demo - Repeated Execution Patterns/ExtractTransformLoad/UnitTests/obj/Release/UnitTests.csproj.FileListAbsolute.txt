@@ -1,0 +1,5 @@
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Demo\ExtractTransformLoad\UnitTests\bin\Release\UnitTests.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Demo\ExtractTransformLoad\UnitTests\bin\Release\UnitTests.pdb
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Demo\ExtractTransformLoad\UnitTests\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Demo\ExtractTransformLoad\UnitTests\obj\Release\UnitTests.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Demo\ExtractTransformLoad\UnitTests\obj\Release\UnitTests.pdb

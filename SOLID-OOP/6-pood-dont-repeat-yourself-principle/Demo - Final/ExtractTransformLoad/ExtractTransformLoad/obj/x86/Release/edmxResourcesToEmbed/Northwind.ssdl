@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="NorthwindModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="NorthwindModelStoreContainer">
+    <EntitySet Name="EmployeeBonus" EntityType="NorthwindModel.Store.EmployeeBonus" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Employees" EntityType="NorthwindModel.Store.Employees" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="FreightSummary" EntityType="NorthwindModel.Store.FreightSummary" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Invoices" EntityType="NorthwindModel.Store.Invoices" store:Type="Views" store:Schema="dbo" store:Name="Invoices">
+      <DefiningQuery>SELECT 
+      [Invoices].[ShipName] AS [ShipName], 
+      [Invoices].[ShipAddress] AS [ShipAddress], 
+      [Invoices].[ShipCity] AS [ShipCity], 
+      [Invoices].[ShipRegion] AS [ShipRegion], 
+      [Invoices].[ShipPostalCode] AS [ShipPostalCode], 
+      [Invoices].[ShipCountry] AS [ShipCountry], 
+      [Invoices].[CustomerID] AS [CustomerID], 
+      [Invoices].[CustomerName] AS [CustomerName], 
+      [Invoices].[Address] AS [Address], 
+      [Invoices].[City] AS [City], 
+      [Invoices].[Region] AS [Region], 
+      [Invoices].[PostalCode] AS [PostalCode], 
+      [Invoices].[Country] AS [Country], 
+      [Invoices].[Salesperson] AS [Salesperson], 
+      [Invoices].[OrderID] AS [OrderID], 
+      [Invoices].[OrderDate] AS [OrderDate], 
+      [Invoices].[RequiredDate] AS [RequiredDate], 
+      [Invoices].[ShippedDate] AS [ShippedDate], 
+      [Invoices].[ShipperName] AS [ShipperName], 
+      [Invoices].[ProductID] AS [ProductID], 
+      [Invoices].[ProductName] AS [ProductName], 
+      [Invoices].[UnitPrice] AS [UnitPrice], 
+      [Invoices].[Quantity] AS [Quantity], 
+      [Invoices].[Discount] AS [Discount], 
+      [Invoices].[ExtendedPrice] AS [ExtendedPrice], 
+      [Invoices].[Freight] AS [Freight]
+      FROM [dbo].[Invoices] AS [Invoices]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK_Employees_Employees" Association="NorthwindModel.Store.FK_Employees_Employees">
+      <End Role="Employees" EntitySet="Employees" />
+      <End Role="Employees1" EntitySet="Employees" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="EmployeeBonus">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Date" Type="date" />
+    <Property Name="EmployeeName" Type="varchar" MaxLength="50" />
+    <Property Name="Bonus" Type="money" />
+  </EntityType>
+  <EntityType Name="Employees">
+    <Key>
+      <PropertyRef Name="EmployeeID" />
+    </Key>
+    <Property Name="EmployeeID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="LastName" Type="nvarchar" Nullable="false" MaxLength="20" />
+    <Property Name="FirstName" Type="nvarchar" Nullable="false" MaxLength="10" />
+    <Property Name="Title" Type="nvarchar" MaxLength="30" />
+    <Property Name="TitleOfCourtesy" Type="nvarchar" MaxLength="25" />
+    <Property Name="BirthDate" Type="datetime" />
+    <Property Name="HireDate" Type="datetime" />
+    <Property Name="Address" Type="nvarchar" MaxLength="60" />
+    <Property Name="City" Type="nvarchar" MaxLength="15" />
+    <Property Name="Region" Type="nvarchar" MaxLength="15" />
+    <Property Name="PostalCode" Type="nvarchar" MaxLength="10" />
+    <Property Name="Country" Type="nvarchar" MaxLength="15" />
+    <Property Name="HomePhone" Type="nvarchar" MaxLength="24" />
+    <Property Name="Extension" Type="nvarchar" MaxLength="4" />
+    <Property Name="Photo" Type="image" />
+    <Property Name="Notes" Type="ntext" />
+    <Property Name="ReportsTo" Type="int" />
+    <Property Name="PhotoPath" Type="nvarchar" MaxLength="255" />
+  </EntityType>
+  <EntityType Name="FreightSummary">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="RunDate" Type="date" />
+    <Property Name="ShipperName" Type="varchar" MaxLength="50" />
+    <Property Name="Freight" Type="money" />
+  </EntityType>
+  <!--Errors Found During Generation:
+      warning 6002: The table/view 'Northwind.dbo.Invoices' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.
+      -->
+  <EntityType Name="Invoices">
+    <Key>
+      <PropertyRef Name="CustomerName" />
+      <PropertyRef Name="Salesperson" />
+      <PropertyRef Name="OrderID" />
+      <PropertyRef Name="ShipperName" />
+      <PropertyRef Name="ProductID" />
+      <PropertyRef Name="ProductName" />
+      <PropertyRef Name="UnitPrice" />
+      <PropertyRef Name="Quantity" />
+      <PropertyRef Name="Discount" />
+    </Key>
+    <Property Name="ShipName" Type="nvarchar" MaxLength="40" />
+    <Property Name="ShipAddress" Type="nvarchar" MaxLength="60" />
+    <Property Name="ShipCity" Type="nvarchar" MaxLength="15" />
+    <Property Name="ShipRegion" Type="nvarchar" MaxLength="15" />
+    <Property Name="ShipPostalCode" Type="nvarchar" MaxLength="10" />
+    <Property Name="ShipCountry" Type="nvarchar" MaxLength="15" />
+    <Property Name="CustomerID" Type="nchar" MaxLength="5" />
+    <Property Name="CustomerName" Type="nvarchar" Nullable="false" MaxLength="40" />
+    <Property Name="Address" Type="nvarchar" MaxLength="60" />
+    <Property Name="City" Type="nvarchar" MaxLength="15" />
+    <Property Name="Region" Type="nvarchar" MaxLength="15" />
+    <Property Name="PostalCode" Type="nvarchar" MaxLength="10" />
+    <Property Name="Country" Type="nvarchar" MaxLength="15" />
+    <Property Name="Salesperson" Type="nvarchar" Nullable="false" MaxLength="31" />
+    <Property Name="OrderID" Type="int" Nullable="false" />
+    <Property Name="OrderDate" Type="datetime" />
+    <Property Name="RequiredDate" Type="datetime" />
+    <Property Name="ShippedDate" Type="datetime" />
+    <Property Name="ShipperName" Type="nvarchar" Nullable="false" MaxLength="40" />
+    <Property Name="ProductID" Type="int" Nullable="false" />
+    <Property Name="ProductName" Type="nvarchar" Nullable="false" MaxLength="40" />
+    <Property Name="UnitPrice" Type="money" Nullable="false" />
+    <Property Name="Quantity" Type="smallint" Nullable="false" />
+    <Property Name="Discount" Type="real" Nullable="false" />
+    <Property Name="ExtendedPrice" Type="money" />
+    <Property Name="Freight" Type="money" />
+  </EntityType>
+  <Association Name="FK_Employees_Employees">
+    <End Role="Employees" Type="NorthwindModel.Store.Employees" Multiplicity="0..1" />
+    <End Role="Employees1" Type="NorthwindModel.Store.Employees" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Employees">
+        <PropertyRef Name="EmployeeID" />
+      </Principal>
+      <Dependent Role="Employees1">
+        <PropertyRef Name="ReportsTo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

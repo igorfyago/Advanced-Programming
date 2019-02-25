@@ -1,0 +1,1 @@
+build.bat Deploy & pause

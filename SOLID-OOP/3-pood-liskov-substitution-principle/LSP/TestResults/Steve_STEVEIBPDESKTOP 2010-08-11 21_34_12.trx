@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="7df0f7b4-85b2-43f1-a753-bb09cdb017fb" name="Steve@STEVEIBPDESKTOP 2010-08-11 21:34:12" runUser="SteveIBPDesktop\Steve" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="f3247d6f-82aa-4607-a81b-85f7734424fe">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="Steve_STEVEIBPDESKTOP 2010-08-11 21_34_12" />
+  </TestSettings>
+  <Times creation="2010-08-11T21:34:12.3129843-04:00" queuing="2010-08-11T21:34:12.7094687-04:00" start="2010-08-11T21:34:12.7622031-04:00" finish="2010-08-11T21:34:13.1206015-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="8" executed="8" passed="8" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="FourDollarsWithFiveBuy4Get1FreeItems" storage="c:\users\steve\documents\my projects\pluralsight\003 - liskov substitution principle\demo\lsp\testproject1\bin\debug\commerceproject.dll" id="64bdf141-1f31-a0b1-f08f-5378da3e14da">
+      <Execution id="81898c9e-cee3-4ec9-b68b-078f0d7098d8" />
+      <TestMethod codeBase="C:/Users/Steve/Documents/My Projects/PluralSight/003 - Liskov Substitution Principle/Demo/LSP/TestProject1/bin/Debug/CommerceProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CommerceProject.CartTotalShouldReturn, CommerceProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="FourDollarsWithFiveBuy4Get1FreeItems" />
+    </UnitTest>
+    <UnitTest name="TwoWithHalfKiloWeightItem" storage="c:\users\steve\documents\my projects\pluralsight\003 - liskov substitution principle\demo\lsp\testproject1\bin\debug\commerceproject.dll" id="2b0865e2-2362-aae4-fae3-d17616115b15">
+      <Execution id="87f60e96-cfe5-4151-b449-91165017eb3a" />
+      <TestMethod codeBase="C:/Users/Steve/Documents/My Projects/PluralSight/003 - Liskov Substitution Principle/Demo/LSP/TestProject1/bin/Debug/CommerceProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CommerceProject.CartTotalShouldReturn, CommerceProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TwoWithHalfKiloWeightItem" />
+    </UnitTest>
+    <UnitTest name="CalculateArea" storage="c:\users\steve\documents\my projects\pluralsight\003 - liskov substitution principle\demo\lsp\testproject1\bin\debug\commerceproject.dll" id="6bc376ca-54e9-eef6-461a-cd3aeac52c62">
+      <Execution id="f819a619-bdb4-4535-962b-172e3b500532" />
+      <TestMethod codeBase="C:/Users/Steve/Documents/My Projects/PluralSight/003 - Liskov Substitution Principle/Demo/LSP/TestProject1/bin/Debug/CommerceProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CommerceProject.LSPTest, CommerceProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CalculateArea" />
+    </UnitTest>
+    <UnitTest name="FourDollarsWithFourBuy4Get1FreeItems" storage="c:\users\steve\documents\my projects\pluralsight\003 - liskov substitution principle\demo\lsp\testproject1\bin\debug\commerceproject.dll" id="8b36ed89-b128-95b3-2bed-df25c04e0610">
+      <Execution id="415c254f-a00d-485d-a14f-06203bf17dd3" />
+      <TestMethod codeBase="C:/Users/Steve/Documents/My Projects/PluralSight/003 - Liskov Substitution Principle/Demo/LSP/TestProject1/bin/Debug/CommerceProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CommerceProject.CartTotalShouldReturn, CommerceProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="FourDollarsWithFourBuy4Get1FreeItems" />
+    </UnitTest>
+    <UnitTest name="FiveWithOneEachItem" storage="c:\users\steve\documents\my projects\pluralsight\003 - liskov substitution principle\demo\lsp\testproject1\bin\debug\commerceproject.dll" id="7d829c88-f649-0b2b-285a-7f018d897da0">
+      <Execution id="3e7e3056-3cf4-4c7b-915d-c3897fe29622" />
+      <TestMethod codeBase="C:/Users/Steve/Documents/My Projects/PluralSight/003 - Liskov Substitution Principle/Demo/LSP/TestProject1/bin/Debug/CommerceProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CommerceProject.CartTotalShouldReturn, CommerceProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="FiveWithOneEachItem" />
+    </UnitTest>
+    <UnitTest name="ZeroWhenEmpty" storage="c:\users\steve\documents\my projects\pluralsight\003 - liskov substitution principle\demo\lsp\testproject1\bin\debug\commerceproject.dll" id="c018f654-f072-5a28-9b03-624324ed25c2">
+      <Execution id="1660f204-54ec-4d6e-a740-292a60083304" />
+      <TestMethod codeBase="C:/Users/Steve/Documents/My Projects/PluralSight/003 - Liskov Substitution Principle/Demo/LSP/TestProject1/bin/Debug/CommerceProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CommerceProject.CartTotalShouldReturn, CommerceProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ZeroWhenEmpty" />
+    </UnitTest>
+    <UnitTest name="EightyCentsWithTwoSpecialItem" storage="c:\users\steve\documents\my projects\pluralsight\003 - liskov substitution principle\demo\lsp\testproject1\bin\debug\commerceproject.dll" id="1f22e663-811f-12e0-f931-8157c1d6fe47">
+      <Execution id="35a37461-4fb1-47f9-86b5-ac28a4d6cd84" />
+      <TestMethod codeBase="C:/Users/Steve/Documents/My Projects/PluralSight/003 - Liskov Substitution Principle/Demo/LSP/TestProject1/bin/Debug/CommerceProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CommerceProject.CartTotalShouldReturn, CommerceProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="EightyCentsWithTwoSpecialItem" />
+    </UnitTest>
+    <UnitTest name="TwoDollarsWithSixSpecialItem" storage="c:\users\steve\documents\my projects\pluralsight\003 - liskov substitution principle\demo\lsp\testproject1\bin\debug\commerceproject.dll" id="639ab4a9-4933-f723-4206-a4b708a5ee7d">
+      <Execution id="bc4a1afc-e08b-4abc-9b14-afc263b7adfc" />
+      <TestMethod codeBase="C:/Users/Steve/Documents/My Projects/PluralSight/003 - Liskov Substitution Principle/Demo/LSP/TestProject1/bin/Debug/CommerceProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CommerceProject.CartTotalShouldReturn, CommerceProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TwoDollarsWithSixSpecialItem" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="1f22e663-811f-12e0-f931-8157c1d6fe47" executionId="35a37461-4fb1-47f9-86b5-ac28a4d6cd84" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2b0865e2-2362-aae4-fae3-d17616115b15" executionId="87f60e96-cfe5-4151-b449-91165017eb3a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="639ab4a9-4933-f723-4206-a4b708a5ee7d" executionId="bc4a1afc-e08b-4abc-9b14-afc263b7adfc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="64bdf141-1f31-a0b1-f08f-5378da3e14da" executionId="81898c9e-cee3-4ec9-b68b-078f0d7098d8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6bc376ca-54e9-eef6-461a-cd3aeac52c62" executionId="f819a619-bdb4-4535-962b-172e3b500532" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7d829c88-f649-0b2b-285a-7f018d897da0" executionId="3e7e3056-3cf4-4c7b-915d-c3897fe29622" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8b36ed89-b128-95b3-2bed-df25c04e0610" executionId="415c254f-a00d-485d-a14f-06203bf17dd3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c018f654-f072-5a28-9b03-624324ed25c2" executionId="1660f204-54ec-4d6e-a740-292a60083304" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="35a37461-4fb1-47f9-86b5-ac28a4d6cd84" testId="1f22e663-811f-12e0-f931-8157c1d6fe47" testName="EightyCentsWithTwoSpecialItem" computerName="STEVEIBPDESKTOP" duration="00:00:00.0145784" startTime="2010-08-11T21:34:12.7758750-04:00" endTime="2010-08-11T21:34:13.0639609-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="35a37461-4fb1-47f9-86b5-ac28a4d6cd84">
+    </UnitTestResult>
+    <UnitTestResult executionId="87f60e96-cfe5-4151-b449-91165017eb3a" testId="2b0865e2-2362-aae4-fae3-d17616115b15" testName="TwoWithHalfKiloWeightItem" computerName="STEVEIBPDESKTOP" duration="00:00:00.0003868" startTime="2010-08-11T21:34:13.0639609-04:00" endTime="2010-08-11T21:34:13.0688437-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="87f60e96-cfe5-4151-b449-91165017eb3a">
+    </UnitTestResult>
+    <UnitTestResult executionId="bc4a1afc-e08b-4abc-9b14-afc263b7adfc" testId="639ab4a9-4933-f723-4206-a4b708a5ee7d" testName="TwoDollarsWithSixSpecialItem" computerName="STEVEIBPDESKTOP" duration="00:00:00.0002941" startTime="2010-08-11T21:34:13.0688437-04:00" endTime="2010-08-11T21:34:13.0737265-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bc4a1afc-e08b-4abc-9b14-afc263b7adfc">
+    </UnitTestResult>
+    <UnitTestResult executionId="81898c9e-cee3-4ec9-b68b-078f0d7098d8" testId="64bdf141-1f31-a0b1-f08f-5378da3e14da" testName="FourDollarsWithFiveBuy4Get1FreeItems" computerName="STEVEIBPDESKTOP" duration="00:00:00.0004964" startTime="2010-08-11T21:34:13.0747031-04:00" endTime="2010-08-11T21:34:13.0786093-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="81898c9e-cee3-4ec9-b68b-078f0d7098d8">
+    </UnitTestResult>
+    <UnitTestResult executionId="f819a619-bdb4-4535-962b-172e3b500532" testId="6bc376ca-54e9-eef6-461a-cd3aeac52c62" testName="CalculateArea" computerName="STEVEIBPDESKTOP" duration="00:00:00.0028352" startTime="2010-08-11T21:34:13.0795859-04:00" endTime="2010-08-11T21:34:13.0864218-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f819a619-bdb4-4535-962b-172e3b500532">
+    </UnitTestResult>
+    <UnitTestResult executionId="3e7e3056-3cf4-4c7b-915d-c3897fe29622" testId="7d829c88-f649-0b2b-285a-7f018d897da0" testName="FiveWithOneEachItem" computerName="STEVEIBPDESKTOP" duration="00:00:00.0003428" startTime="2010-08-11T21:34:13.0873984-04:00" endTime="2010-08-11T21:34:13.0913046-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3e7e3056-3cf4-4c7b-915d-c3897fe29622">
+    </UnitTestResult>
+    <UnitTestResult executionId="415c254f-a00d-485d-a14f-06203bf17dd3" testId="8b36ed89-b128-95b3-2bed-df25c04e0610" testName="FourDollarsWithFourBuy4Get1FreeItems" computerName="STEVEIBPDESKTOP" duration="00:00:00.0002244" startTime="2010-08-11T21:34:13.0913046-04:00" endTime="2010-08-11T21:34:13.0952109-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="415c254f-a00d-485d-a14f-06203bf17dd3">
+    </UnitTestResult>
+    <UnitTestResult executionId="1660f204-54ec-4d6e-a740-292a60083304" testId="c018f654-f072-5a28-9b03-624324ed25c2" testName="ZeroWhenEmpty" computerName="STEVEIBPDESKTOP" duration="00:00:00.0002217" startTime="2010-08-11T21:34:13.0961875-04:00" endTime="2010-08-11T21:34:13.1010703-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1660f204-54ec-4d6e-a740-292a60083304">
+    </UnitTestResult>
+  </Results>
+</TestRun>

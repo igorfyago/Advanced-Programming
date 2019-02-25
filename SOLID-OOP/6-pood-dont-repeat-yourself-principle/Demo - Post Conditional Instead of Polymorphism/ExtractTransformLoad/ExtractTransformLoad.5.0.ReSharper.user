@@ -1,0 +1,184 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="ABE6F554-7A0C-4875-8ECB-D8401C78AED9/f:Build.proj/l:C!?Users?Steve?Documents?My Projects?PluralSight?006 - Dont Repeat Yourself?Demo?Build.proj" caret="1927" fromTop="32" />
+      <File id="ABE6F554-7A0C-4875-8ECB-D8401C78AED9/f:ClickToBuild.bat/l:C!?Users?Steve?Documents?My Projects?PluralSight?006 - Dont Repeat Yourself?Demo?ClickToBuild.bat" caret="0" fromTop="0" />
+      <File id="ABE6F554-7A0C-4875-8ECB-D8401C78AED9/f:ClickToDeploy.bat/l:C!?Users?Steve?Documents?My Projects?PluralSight?006 - Dont Repeat Yourself?Demo?ClickToDeploy.bat" caret="26" fromTop="0" />
+      <File id="C1FE5A54-75C4-438D-A72B-E4CC21C83CDD/f:Tests.cs" caret="204" fromTop="11" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/f:Employee.cs" caret="543" fromTop="20" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/f:Program.cs" caret="5406" fromTop="12" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/f:Program.cs" caret="9559" fromTop="30" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/f:Program.cs" caret="9559" fromTop="46" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/f:Program.cs" caret="9559" fromTop="0" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/f:Program.cs" caret="9559" fromTop="36" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/f:Program.cs" caret="9559" fromTop="14" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/f:Program.cs" caret="9559" fromTop="39" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/f:Program.cs" caret="9559" fromTop="60" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/f:Program.cs" caret="9559" fromTop="27" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/f:Program.cs" caret="9559" fromTop="33" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/f:Program.cs" caret="9559" fromTop="37" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/f:Program.cs" caret="9559" fromTop="44" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/f:Program.cs" caret="9559" fromTop="49" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/f:Program.cs" caret="9559" fromTop="54" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/f:Program.cs" caret="9559" fromTop="46" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/f:Program.cs" caret="9559" fromTop="46" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/f:Program.cs" caret="9559" fromTop="210" />
+      <File id="ABE6F554-7A0C-4875-8ECB-D8401C78AED9/f:Build.proj/l:C!?Users?Steve?Documents?My Projects?PluralSight?006 - Dont Repeat Yourself?Demo?Build.proj" caret="467" fromTop="7" />
+      <File id="ABE6F554-7A0C-4875-8ECB-D8401C78AED9/f:Build.proj/l:C!?Users?Steve?Documents?My Projects?PluralSight?006 - Dont Repeat Yourself?Demo?Build.proj" caret="980" fromTop="14" />
+      <File id="ABE6F554-7A0C-4875-8ECB-D8401C78AED9/f:ClickToDeploy.bat/l:C!?Users?Steve?Documents?My Projects?PluralSight?006 - Dont Repeat Yourself?Demo?ClickToDeploy.bat" caret="26" fromTop="0" />
+      <File id="ABE6F554-7A0C-4875-8ECB-D8401C78AED9/f:Build.proj/l:C!?Users?Steve?Documents?My Projects?PluralSight?006 - Dont Repeat Yourself?Demo?Build.proj" caret="1942" fromTop="29" />
+      <File id="ABE6F554-7A0C-4875-8ECB-D8401C78AED9/f:Build.proj/l:C!?Users?Steve?Documents?My Projects?PluralSight?006 - Dont Repeat Yourself?Demo?Build.proj" caret="153" fromTop="2" />
+      <File id="ABE6F554-7A0C-4875-8ECB-D8401C78AED9/f:Build.proj/l:C!?Users?Steve?Documents?My Projects?PluralSight?006 - Dont Repeat Yourself?Demo?Build.proj" caret="1691" fromTop="27" />
+      <File id="ABE6F554-7A0C-4875-8ECB-D8401C78AED9/f:Build.proj/l:C!?Users?Steve?Documents?My Projects?PluralSight?006 - Dont Repeat Yourself?Demo?Build.proj" caret="1861" fromTop="31" />
+      <File id="C1FE5A54-75C4-438D-A72B-E4CC21C83CDD/f:Tests.cs" caret="164" fromTop="7" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/f:Employee.cs" caret="248" fromTop="9" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/f:Employee.cs" caret="438" fromTop="17" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/f:Program.cs" caret="4964" fromTop="6" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/f:Program.cs" caret="5307" fromTop="16" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/f:Program.cs" caret="5210" fromTop="6" />
+      <File id="AE8FA173-4C61-4D42-8109-1E9F010F7B7D/f:Program.cs" caret="5543" fromTop="17" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.7\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Console`0" priority="6" />
+      <Item value="DateTime`0" priority="3" />
+      <Item value="var" priority="13" />
+      <Item value="ExtractTransformLoad" priority="0" />
+      <Item value="new" priority="14" />
+      <Item value="myConnection" priority="2" />
+      <Item value="SqlCommand`0" priority="0" />
+      <Item value="myQuery" priority="0" />
+      <Item value="myCommand" priority="2" />
+      <Item value="while" priority="0" />
+      <Item value="myReader" priority="4" />
+      <Item value="SqlParameter" priority="0" />
+      <Item value="public" priority="8" />
+      <Item value="class" priority="2" />
+      <Item value="string" priority="4" />
+      <Item value="decimal" priority="5" />
+      <Item value="static" priority="2" />
+      <Item value="Dictionary" priority="0" />
+      <Item value="private" priority="1" />
+      <Item value="List" priority="2" />
+      <Item value="SqlDataAdapter`0" priority="0" />
+      <Item value="DataTable`0" priority="1" />
+      <Item value="_invoiceTable" priority="5" />
+      <Item value="myAdapter" priority="0" />
+      <Item value="foreach" priority="4" />
+      <Item value="totalFreight" priority="4" />
+      <Item value="DataView`0" priority="0" />
+      <Item value="true" priority="1" />
+      <Item value="for" priority="0" />
+      <Item value="shippers" priority="0" />
+      <Item value="DataRow`0" priority="0" />
+      <Item value="LdapStyleUriParser`0" priority="0" />
+      <Item value="FreightByShipper`0" priority="1" />
+      <Item value="freightByShipperList" priority="0" />
+      <Item value="FreightByShipper" priority="0" />
+      <Item value="ShipperName" priority="0" />
+      <Item value="row" priority="3" />
+      <Item value="freightByShipper" priority="3" />
+      <Item value="record" priority="0" />
+      <Item value="shipper" priority="1" />
+      <Item value="if" priority="2" />
+      <Item value="_freightByShipperList" priority="0" />
+      <Item value="String`0" priority="0" />
+      <Item value="bool" priority="0" />
+      <Item value="_employeeTable" priority="0" />
+      <Item value="Employee`0" priority="1" />
+      <Item value="Name" priority="1" />
+      <Item value="employee" priority="14" />
+      <Item value="int" priority="0" />
+      <Item value="else" priority="1" />
+      <Item value="false" priority="0" />
+      <Item value="in" priority="0" />
+      <Item value="_employees" priority="1" />
+      <Item value="return" priority="0" />
+      <Item value="protected" priority="0" />
+      <Item value="bonus" priority="1" />
+      <Item value="freightUsedForBonus" priority="1" />
+      <Item value="override" priority="0" />
+      <Item value="void" priority="0" />
+      <Item value="Employee" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="BackgroundColor" priority="0" />
+      <Item value="WriteLine`0" priority="5" />
+      <Item value="ReadLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlConnection">
+      <Item value="ConnectionString" priority="0" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlCommand">
+      <Item value="ExecuteReader`0" priority="0" />
+      <Item value="Parameters" priority="0" />
+      <Item value="ExecuteNonQuery`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlDataReader">
+      <Item value="Read`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="Equals`0" priority="0" />
+      <Item value="ToString`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlParameterCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlDataAdapter">
+      <Item value="Fill`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataTable">
+      <Item value="Rows" priority="2" />
+      <Item value="Select`0" priority="0" />
+      <Item value="Compute`0" priority="0" />
+      <Item value="DefaultView" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.DataView">
+      <Item value="ToTable`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="1" />
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExtractTransformLoad.FreightByShipper">
+      <Item value="ShipperName" priority="2" />
+      <Item value="Freight" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExtractTransformLoad.Program+Employee">
+      <Item value="IsManager" priority="3" />
+      <Item value="Bonus" priority="3" />
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:ExtractTransformLoad.Employee">
+      <Item value="SetBonus`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

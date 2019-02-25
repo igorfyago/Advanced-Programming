@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" dslVersion="1.0.0.0" Id="ba388b2d-830a-4d26-8e7c-875fa2563a62" name="UMLClassDiagram2" linkedPackageId="e86354c2-b0f6-4ebf-b98a-cb2a5abd00c7" xmlns="http://schemas.microsoft.com/dsltools/LogicalClassDesigner">
+  <profileInstances>
+    <packageHasProfileInstances Id="ac2f57b5-e9d2-4344-9d8e-e14d5bed5e2a">
+      <profileInstance Id="a7720bdb-ad7a-48c0-8176-2033238fa3ab" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="ffe86fe1-c00c-470e-82af-93b86ce1a7d8">
+      <profileInstance Id="9098b548-41b3-4520-86ee-eb41e8f00a87" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="ef549b87-fb61-4ca6-8fe9-f641d2742063" name="Order" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="a36e3922-8d44-4230-8899-abd55d6163d6" />
+        <ownedOperationsInternal>
+          <operation Id="baeb2737-d621-43ab-b3bf-37040a5d7cfc" name="Checkout" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="47abdd1e-4e74-4388-a255-569ea00c4b90" />
+          </operation>
+          <operation Id="b3c8a85f-b6d9-4301-a3d5-4746675ba031" name="NotifyCustomer" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="f01a2c82-ab28-493f-adfa-8faaf913cb83" />
+          </operation>
+          <operation Id="e1de4cc9-c366-4fc6-95cb-cf6253cd440f" name="ReserveInventory" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="27cff7b3-f095-4d32-8774-a95ebf8ffc3b" />
+          </operation>
+          <operation Id="4b54eafb-eda1-4ddc-ba83-db40bbd6f134" name="ChargeCard" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="0fce3bd4-92b0-4437-ad7d-343cebc2207f" />
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasPackages>
+      <package Id="55e9f9e9-dd0d-4375-9986-a31b006d3224" name="Web Site">
+        <elementDefinition Id="893ebfa4-7e04-4d13-845c-13262c1996eb" />
+        <suppliersInternal>
+          <dependency Id="0434f213-4cdf-433d-83b8-537446773405">
+            <classMoniker Id="ef549b87-fb61-4ca6-8fe9-f641d2742063" LastKnownName="Order" />
+            <elementDefinition Id="5ff2beab-d568-4556-af24-81c9054d9ca1" />
+          </dependency>
+        </suppliersInternal>
+      </package>
+    </logicalClassDesignerModelHasPackages>
+    <logicalClassDesignerModelHasPackages>
+      <package Id="fb3d4d0c-0d66-4205-a64b-8b07cab54afe" name="Retail Point of Sale">
+        <elementDefinition Id="ec89ca9a-f85f-45e4-a02d-50c0c2f47466" />
+        <suppliersInternal>
+          <dependency Id="f89804cd-aead-4da5-876d-f90fc7112466">
+            <classMoniker Id="ef549b87-fb61-4ca6-8fe9-f641d2742063" LastKnownName="Order" />
+            <elementDefinition Id="d29c11f3-758f-4a30-bfcd-77c7a60a8475" />
+          </dependency>
+        </suppliersInternal>
+      </package>
+    </logicalClassDesignerModelHasPackages>
+  </packagedElements>
+  <package Id="e86354c2-b0f6-4ebf-b98a-cb2a5abd00c7" name="ModelingProject1">
+    <elementDefinition Id="ab9098db-d4fd-404a-a8dd-9a869ab6f8c6" />
+  </package>
+</logicalClassDesignerModel>

@@ -1,0 +1,153 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:_Simple/f:HelloWorld.cs" caret="856" fromTop="29" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/d:Fakes/f:FakeNotificationService.cs" caret="122" fromTop="3" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/d:Fakes/f:FakeReservationService.cs" caret="150" fromTop="3" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/d:Interfaces/f:IReservationService.cs" caret="255" fromTop="9" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/d:Interfaces/f:INotificationService.cs" caret="112" fromTop="4" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:TightCoupling/d:Services/f:PaymentGateway.cs" caret="58" fromTop="1" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:TightCoupling/d:Services/f:InventorySystem.cs" caret="91" fromTop="3" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/d:Model/f:PaymentDetails.cs" caret="32" fromTop="0" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/d:Model/f:Cart.cs" caret="75" fromTop="1" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:TightCoupling/d:Model/f:PaymentDetails.cs" caret="38" fromTop="0" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:TightCoupling/d:Model/f:Cart.cs" caret="75" fromTop="1" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:Utility/f:Logger.cs" caret="43" fromTop="1" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/d:Services/f:PaymentProcessor.cs" caret="0" fromTop="0" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/d:Services/f:ReservationService.cs" caret="0" fromTop="0" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/d:Interfaces/f:IPaymentProcessor.cs" caret="179" fromTop="6" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/d:Fakes/f:FakePaymentProcessor.cs" caret="427" fromTop="11" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:TightCoupling/d:Model/f:Order.cs" caret="178" fromTop="1" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/d:Model/f:Order.cs" caret="0" fromTop="0" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:TightCoupling/f:OrderCheckoutShould.cs" caret="735" fromTop="3" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/f:OnlineOrderCheckoutShould.cs" caret="2007" fromTop="17" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/d:Services/f:NotificationService.cs" caret="455" fromTop="12" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/d:Model/f:OnlineOrder.cs" caret="715" fromTop="15" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/d:Interfaces/f:INotificationService.cs" caret="212" fromTop="8" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/d:Fakes/f:FakeNotificationService.cs" caret="119" fromTop="2" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/d:Model/f:OnlineOrder.cs" caret="1277" fromTop="19" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/d:Interfaces/f:INotificationService.cs" caret="112" fromTop="4" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/d:Interfaces/f:IPaymentProcessor.cs" caret="135" fromTop="3" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/d:Interfaces/f:IPaymentProcessor.cs" caret="236" fromTop="8" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/d:Interfaces/f:IReservationService.cs" caret="173" fromTop="4" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/d:Interfaces/f:IReservationService.cs" caret="255" fromTop="9" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/d:Fakes/f:FakeReservationService.cs" caret="150" fromTop="3" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/d:Fakes/f:FakePaymentProcessor.cs" caret="117" fromTop="2" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/f:OnlineOrderCheckoutShould.cs" caret="1025" fromTop="20" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/f:OnlineOrderCheckoutShould.cs" caret="693" fromTop="16" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/d:Model/f:OnlineOrder.cs" caret="1277" fromTop="34" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/d:Services/f:NotificationService.cs" caret="1140" fromTop="31" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/f:OnlineOrderCheckoutShould.cs" caret="2071" fromTop="30" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/f:OnlineOrderCheckoutShould.cs" caret="2071" fromTop="3" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/f:OnlineOrderCheckoutShould.cs" caret="2072" fromTop="15" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/f:OnlineOrderCheckoutShould.cs" caret="1600" fromTop="13" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/d:Services/f:ReservationService.cs" caret="988" fromTop="26" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/d:Services/f:ReservationService.cs" caret="402" fromTop="11" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/d:Services/f:PaymentProcessor.cs" caret="907" fromTop="14" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:LooseCoupling/d:Services/f:PaymentProcessor.cs" caret="1368" fromTop="12" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:TightCoupling/d:Model/f:Order.cs" caret="147" fromTop="6" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:TightCoupling/d:Model/f:Order.cs" caret="147" fromTop="11" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:TightCoupling/d:Model/f:Order.cs" caret="596" fromTop="2" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:TightCoupling/d:Model/f:Order.cs" caret="2049" fromTop="9" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:TightCoupling/d:Model/f:Order.cs" caret="545" fromTop="0" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:TightCoupling/d:Model/f:Order.cs" caret="1474" fromTop="30" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:TightCoupling/d:Model/f:Order.cs" caret="147" fromTop="0" />
+      <File id="C1301D59-47B0-4D64-8A3C-97AC9354B845/d:TightCoupling/d:Model/f:Order.cs" caret="178" fromTop="1" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.7\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="5" />
+      <Item value="void" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="return" priority="2" />
+      <Item value="name" priority="2" />
+      <Item value="if" priority="0" />
+      <Item value="DateTime`0" priority="1" />
+      <Item value="ctor" priority="2" />
+      <Item value="_timeOfGreeting" priority="1" />
+      <Item value="var" priority="5" />
+      <Item value="new" priority="8" />
+      <Item value="OrderCheckoutShould`0" priority="0" />
+      <Item value="Cart`0" priority="1" />
+      <Item value="cart" priority="3" />
+      <Item value="PaymentDetails" priority="1" />
+      <Item value="PaymentDetails`0" priority="2" />
+      <Item value="PaymentMethod" priority="0" />
+      <Item value="paymentDetails" priority="3" />
+      <Item value="bool" priority="3" />
+      <Item value="false" priority="3" />
+      <Item value="shouldNotifyCustomer" priority="0" />
+      <Item value="Assert`0" priority="2" />
+      <Item value="this" priority="0" />
+      <Item value="List" priority="0" />
+      <Item value="CustomerEmail" priority="1" />
+      <Item value="throw" priority="0" />
+      <Item value="LooseCoupling" priority="0" />
+      <Item value="WasCalled" priority="2" />
+      <Item value="true" priority="2" />
+      <Item value="IPaymentProcessor`0" priority="0" />
+      <Item value="paymentProcessor" priority="3" />
+      <Item value="IReservationService`0" priority="0" />
+      <Item value="reservationService" priority="1" />
+      <Item value="INotificationService`0" priority="0" />
+      <Item value="notificationService" priority="1" />
+      <Item value="decimal" priority="0" />
+      <Item value="AmountPassed" priority="0" />
+      <Item value="amount" priority="0" />
+      <Item value="FakeReservationService`0" priority="2" />
+      <Item value="FakeNotificationService`0" priority="1" />
+      <Item value="TotalAmount" priority="0" />
+      <Item value="INotifyCustomer`0" priority="0" />
+      <Item value="notifyCustomer" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Hour" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Commerce.Model.Order">
+      <Item value="Checkout`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Commerce.Model.PaymentMethod">
+      <Item value="Cash" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="IsTrue`0" priority="2" />
+      <Item value="AreEqual`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Commerce.Model.Cart">
+      <Item value="Items" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Commerce.LooseCoupling.Model.Cart">
+      <Item value="TotalAmount" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Commerce.LooseCoupling.Model.PaymentMethod">
+      <Item value="CreditCard" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Commerce.LooseCoupling.Fakes.FakePaymentProcessor">
+      <Item value="AmountPassed" priority="0" />
+      <Item value="WasCalled" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

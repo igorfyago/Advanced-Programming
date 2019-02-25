@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="8b4b7f89-c628-4651-9fbe-f24e10600a0f" name="Steve@STEVEIBPDESKTOP 2010-08-11 22:43:23" runUser="SteveIBPDesktop\Steve" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="c9b3e9df-ae28-4b02-be15-8eea5333a8b3">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="Steve_STEVEIBPDESKTOP 2010-08-11 22_43_23" />
+  </TestSettings>
+  <Times creation="2010-08-11T22:43:23.2368125-04:00" queuing="2010-08-11T22:43:23.2807578-04:00" start="2010-08-11T22:43:23.2944296-04:00" finish="2010-08-11T22:43:23.5151328-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TwentyFor4X5ShapeFromRectangleAnd9For3X3Square" storage="c:\users\steve\documents\my projects\pluralsight\003 - liskov substitution principle\demo\lsp\testproject1\bin\debug\shapetests.dll" id="4e9412e8-c390-870e-2729-ec53e55382c7">
+      <Execution id="aeac56fc-7178-44db-bc7e-745237ca49c3" />
+      <TestMethod codeBase="C:/Users/Steve/Documents/My Projects/PluralSight/003 - Liskov Substitution Principle/Demo/LSP/TestProject1/bin/Debug/ShapeTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ShapeTests.TellDontAsk_ShapesShouldReturn, ShapeTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TwentyFor4X5ShapeFromRectangleAnd9For3X3Square" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="4e9412e8-c390-870e-2729-ec53e55382c7" executionId="aeac56fc-7178-44db-bc7e-745237ca49c3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="aeac56fc-7178-44db-bc7e-745237ca49c3" testId="4e9412e8-c390-870e-2729-ec53e55382c7" testName="TwentyFor4X5ShapeFromRectangleAnd9For3X3Square" computerName="STEVEIBPDESKTOP" duration="00:00:00.0116780" startTime="2010-08-11T22:43:23.2973593-04:00" endTime="2010-08-11T22:43:23.5034140-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="aeac56fc-7178-44db-bc7e-745237ca49c3">
+    </UnitTestResult>
+  </Results>
+</TestRun>

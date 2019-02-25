@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="9faaf548-ad4f-4e5b-9133-f9122b2f7fc1" name="Steve@STEVEIBPDESKTOP 2010-08-11 22:14:27" runUser="SteveIBPDesktop\Steve" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="cb6084fe-9d35-4b17-9716-a5623e2a04d6">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="Steve_STEVEIBPDESKTOP 2010-08-11 22_14_27" />
+  </TestSettings>
+  <Times creation="2010-08-11T22:14:27.3413046-04:00" queuing="2010-08-11T22:14:27.3930625-04:00" start="2010-08-11T22:14:27.4038046-04:00" finish="2010-08-11T22:14:27.6430625-04:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="3" executed="3" passed="2" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="NineFor3X3Square" storage="c:\users\steve\documents\my projects\pluralsight\003 - liskov substitution principle\demo\lsp\testproject1\bin\debug\shapetests.dll" id="51fc9b5f-d88a-af00-5c14-75d4809f07f3">
+      <Execution id="fdc61830-86ae-47db-bafe-e7658e9598af" />
+      <TestMethod codeBase="C:/Users/Steve/Documents/My Projects/PluralSight/003 - Liskov Substitution Principle/Demo/LSP/TestProject1/bin/Debug/ShapeTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ShapeTests.CalculateAreaShouldReturn, ShapeTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="NineFor3X3Square" />
+    </UnitTest>
+    <UnitTest name="SixFor2X3Rectangle" storage="c:\users\steve\documents\my projects\pluralsight\003 - liskov substitution principle\demo\lsp\testproject1\bin\debug\shapetests.dll" id="a40e904b-ad50-aa18-df08-ed84735eb0e4">
+      <Execution id="c40f8df1-b51f-4821-985b-1f469d20999d" />
+      <TestMethod codeBase="C:/Users/Steve/Documents/My Projects/PluralSight/003 - Liskov Substitution Principle/Demo/LSP/TestProject1/bin/Debug/ShapeTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ShapeTests.CalculateAreaShouldReturn, ShapeTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SixFor2X3Rectangle" />
+    </UnitTest>
+    <UnitTest name="TwentyFor4X5RectangleFromSquare" storage="c:\users\steve\documents\my projects\pluralsight\003 - liskov substitution principle\demo\lsp\testproject1\bin\debug\shapetests.dll" id="d04a953c-7303-2731-99ee-89ab8dc6ad80">
+      <Execution id="7c35229a-4feb-4907-8708-00428fe98e2c" />
+      <TestMethod codeBase="C:/Users/Steve/Documents/My Projects/PluralSight/003 - Liskov Substitution Principle/Demo/LSP/TestProject1/bin/Debug/ShapeTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="ShapeTests.CalculateAreaShouldReturn, ShapeTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TwentyFor4X5RectangleFromSquare" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="51fc9b5f-d88a-af00-5c14-75d4809f07f3" executionId="fdc61830-86ae-47db-bafe-e7658e9598af" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a40e904b-ad50-aa18-df08-ed84735eb0e4" executionId="c40f8df1-b51f-4821-985b-1f469d20999d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d04a953c-7303-2731-99ee-89ab8dc6ad80" executionId="7c35229a-4feb-4907-8708-00428fe98e2c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="fdc61830-86ae-47db-bafe-e7658e9598af" testId="51fc9b5f-d88a-af00-5c14-75d4809f07f3" testName="NineFor3X3Square" computerName="STEVEIBPDESKTOP" duration="00:00:00.0105427" startTime="2010-08-11T22:14:27.4057578-04:00" endTime="2010-08-11T22:14:27.6118125-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fdc61830-86ae-47db-bafe-e7658e9598af">
+    </UnitTestResult>
+    <UnitTestResult executionId="c40f8df1-b51f-4821-985b-1f469d20999d" testId="a40e904b-ad50-aa18-df08-ed84735eb0e4" testName="SixFor2X3Rectangle" computerName="STEVEIBPDESKTOP" duration="00:00:00.0004178" startTime="2010-08-11T22:14:27.6137656-04:00" endTime="2010-08-11T22:14:27.6176718-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c40f8df1-b51f-4821-985b-1f469d20999d">
+    </UnitTestResult>
+    <UnitTestResult executionId="7c35229a-4feb-4907-8708-00428fe98e2c" testId="d04a953c-7303-2731-99ee-89ab8dc6ad80" testName="TwentyFor4X5RectangleFromSquare" computerName="STEVEIBPDESKTOP" duration="00:00:00.0112310" startTime="2010-08-11T22:14:27.6186484-04:00" endTime="2010-08-11T22:14:27.6332968-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7c35229a-4feb-4907-8708-00428fe98e2c">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;20&gt;. Actual:&lt;25&gt;. </Message>
+          <StackTrace>   at ShapeTests.CalculateAreaShouldReturn.TwentyFor4X5RectangleFromSquare() in C:\Users\Steve\Documents\My Projects\PluralSight\003 - Liskov Substitution Principle\Demo\LSP\TestProject1\CalculateAreaShouldReturn.cs:line 28
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

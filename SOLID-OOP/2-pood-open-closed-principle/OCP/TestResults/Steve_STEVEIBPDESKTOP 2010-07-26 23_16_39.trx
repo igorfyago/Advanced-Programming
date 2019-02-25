@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="0a4263a3-0cc0-4cbf-83b1-e12033237392" name="Steve@STEVEIBPDESKTOP 2010-07-26 23:16:39" runUser="SteveIBPDesktop\Steve" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="df9ac0d6-b5ff-482f-ad25-3fc5644ffd67">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="Steve_STEVEIBPDESKTOP 2010-07-26 23_16_39" />
+  </TestSettings>
+  <Times creation="2010-07-26T23:16:39.1411093-04:00" queuing="2010-07-26T23:16:39.1840781-04:00" start="2010-07-26T23:16:39.2094687-04:00" finish="2010-07-26T23:16:39.5180625-04:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="7" executed="7" passed="6" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="FiveWithOneEachItem" storage="c:\users\steve\documents\my projects\pluralsight\002 - open closed principle\demo\ocp\testproject1\bin\debug\commerceproject.dll" id="7d829c88-f649-0b2b-285a-7f018d897da0">
+      <Execution id="b5908c6c-b564-40f0-8f0a-655223c9ac7f" />
+      <TestMethod codeBase="C:/Users/Steve/Documents/My Projects/PluralSight/002 - Open Closed Principle/Demo/OCP/TestProject1/bin/Debug/CommerceProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CommerceProject.CartTotalShouldReturn, CommerceProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="FiveWithOneEachItem" />
+    </UnitTest>
+    <UnitTest name="TwoWithHalfKiloWeightItem" storage="c:\users\steve\documents\my projects\pluralsight\002 - open closed principle\demo\ocp\testproject1\bin\debug\commerceproject.dll" id="2b0865e2-2362-aae4-fae3-d17616115b15">
+      <Execution id="a7a0e819-8eb5-4524-a2c6-7de59aea6a8a" />
+      <TestMethod codeBase="C:/Users/Steve/Documents/My Projects/PluralSight/002 - Open Closed Principle/Demo/OCP/TestProject1/bin/Debug/CommerceProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CommerceProject.CartTotalShouldReturn, CommerceProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TwoWithHalfKiloWeightItem" />
+    </UnitTest>
+    <UnitTest name="FourDollarsWithFiveBuy4Get1FreeItems" storage="c:\users\steve\documents\my projects\pluralsight\002 - open closed principle\demo\ocp\testproject1\bin\debug\commerceproject.dll" id="64bdf141-1f31-a0b1-f08f-5378da3e14da">
+      <Execution id="16ad0c1f-4522-4ebe-887e-5d50ab4adbaf" />
+      <TestMethod codeBase="C:/Users/Steve/Documents/My Projects/PluralSight/002 - Open Closed Principle/Demo/OCP/TestProject1/bin/Debug/CommerceProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CommerceProject.CartTotalShouldReturn, CommerceProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="FourDollarsWithFiveBuy4Get1FreeItems" />
+    </UnitTest>
+    <UnitTest name="FourDollarsWithFourBuy4Get1FreeItems" storage="c:\users\steve\documents\my projects\pluralsight\002 - open closed principle\demo\ocp\testproject1\bin\debug\commerceproject.dll" id="8b36ed89-b128-95b3-2bed-df25c04e0610">
+      <Execution id="28b79a94-85f4-4465-bb83-27b42937ba00" />
+      <TestMethod codeBase="C:/Users/Steve/Documents/My Projects/PluralSight/002 - Open Closed Principle/Demo/OCP/TestProject1/bin/Debug/CommerceProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CommerceProject.CartTotalShouldReturn, CommerceProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="FourDollarsWithFourBuy4Get1FreeItems" />
+    </UnitTest>
+    <UnitTest name="ZeroWhenEmpty" storage="c:\users\steve\documents\my projects\pluralsight\002 - open closed principle\demo\ocp\testproject1\bin\debug\commerceproject.dll" id="c018f654-f072-5a28-9b03-624324ed25c2">
+      <Execution id="926864fe-4846-401e-ad54-c97bf751e179" />
+      <TestMethod codeBase="C:/Users/Steve/Documents/My Projects/PluralSight/002 - Open Closed Principle/Demo/OCP/TestProject1/bin/Debug/CommerceProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CommerceProject.CartTotalShouldReturn, CommerceProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ZeroWhenEmpty" />
+    </UnitTest>
+    <UnitTest name="EightyCentsWithTwoSpecialItem" storage="c:\users\steve\documents\my projects\pluralsight\002 - open closed principle\demo\ocp\testproject1\bin\debug\commerceproject.dll" id="1f22e663-811f-12e0-f931-8157c1d6fe47">
+      <Execution id="38ffe51f-25c3-47ea-be7a-f1ee0e70fe31" />
+      <TestMethod codeBase="C:/Users/Steve/Documents/My Projects/PluralSight/002 - Open Closed Principle/Demo/OCP/TestProject1/bin/Debug/CommerceProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CommerceProject.CartTotalShouldReturn, CommerceProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="EightyCentsWithTwoSpecialItem" />
+    </UnitTest>
+    <UnitTest name="TwoDollarsWithSixSpecialItem" storage="c:\users\steve\documents\my projects\pluralsight\002 - open closed principle\demo\ocp\testproject1\bin\debug\commerceproject.dll" id="639ab4a9-4933-f723-4206-a4b708a5ee7d">
+      <Execution id="5e53455f-4af5-43e1-80a7-6d6e9d27e2e7" />
+      <TestMethod codeBase="C:/Users/Steve/Documents/My Projects/PluralSight/002 - Open Closed Principle/Demo/OCP/TestProject1/bin/Debug/CommerceProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CommerceProject.CartTotalShouldReturn, CommerceProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TwoDollarsWithSixSpecialItem" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="1f22e663-811f-12e0-f931-8157c1d6fe47" executionId="38ffe51f-25c3-47ea-be7a-f1ee0e70fe31" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2b0865e2-2362-aae4-fae3-d17616115b15" executionId="a7a0e819-8eb5-4524-a2c6-7de59aea6a8a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="639ab4a9-4933-f723-4206-a4b708a5ee7d" executionId="5e53455f-4af5-43e1-80a7-6d6e9d27e2e7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="64bdf141-1f31-a0b1-f08f-5378da3e14da" executionId="16ad0c1f-4522-4ebe-887e-5d50ab4adbaf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7d829c88-f649-0b2b-285a-7f018d897da0" executionId="b5908c6c-b564-40f0-8f0a-655223c9ac7f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8b36ed89-b128-95b3-2bed-df25c04e0610" executionId="28b79a94-85f4-4465-bb83-27b42937ba00" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c018f654-f072-5a28-9b03-624324ed25c2" executionId="926864fe-4846-401e-ad54-c97bf751e179" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="38ffe51f-25c3-47ea-be7a-f1ee0e70fe31" testId="1f22e663-811f-12e0-f931-8157c1d6fe47" testName="EightyCentsWithTwoSpecialItem" computerName="STEVEIBPDESKTOP" duration="00:00:00.0190067" startTime="2010-07-26T23:16:39.2143515-04:00" endTime="2010-07-26T23:16:39.4565390-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="38ffe51f-25c3-47ea-be7a-f1ee0e70fe31">
+    </UnitTestResult>
+    <UnitTestResult executionId="a7a0e819-8eb5-4524-a2c6-7de59aea6a8a" testId="2b0865e2-2362-aae4-fae3-d17616115b15" testName="TwoWithHalfKiloWeightItem" computerName="STEVEIBPDESKTOP" duration="00:00:00.0004178" startTime="2010-07-26T23:16:39.4575156-04:00" endTime="2010-07-26T23:16:39.4633750-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a7a0e819-8eb5-4524-a2c6-7de59aea6a8a">
+    </UnitTestResult>
+    <UnitTestResult executionId="5e53455f-4af5-43e1-80a7-6d6e9d27e2e7" testId="639ab4a9-4933-f723-4206-a4b708a5ee7d" testName="TwoDollarsWithSixSpecialItem" computerName="STEVEIBPDESKTOP" duration="00:00:00.0006002" startTime="2010-07-26T23:16:39.4643515-04:00" endTime="2010-07-26T23:16:39.4682578-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5e53455f-4af5-43e1-80a7-6d6e9d27e2e7">
+    </UnitTestResult>
+    <UnitTestResult executionId="16ad0c1f-4522-4ebe-887e-5d50ab4adbaf" testId="64bdf141-1f31-a0b1-f08f-5378da3e14da" testName="FourDollarsWithFiveBuy4Get1FreeItems" computerName="STEVEIBPDESKTOP" duration="00:00:00.0125770" startTime="2010-07-26T23:16:39.4692343-04:00" endTime="2010-07-26T23:16:39.4858359-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="16ad0c1f-4522-4ebe-887e-5d50ab4adbaf">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;4&gt;. Actual:&lt;5&gt;. </Message>
+          <StackTrace>   at CommerceProject.CartTotalShouldReturn.FourDollarsWithFiveBuy4Get1FreeItems() in C:\Users\Steve\Documents\My Projects\PluralSight\002 - Open Closed Principle\Demo\OCP\TestProject1\CartTotalShouldReturn.cs:line 59
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b5908c6c-b564-40f0-8f0a-655223c9ac7f" testId="7d829c88-f649-0b2b-285a-7f018d897da0" testName="FiveWithOneEachItem" computerName="STEVEIBPDESKTOP" duration="00:00:00.0004990" startTime="2010-07-26T23:16:39.4868125-04:00" endTime="2010-07-26T23:16:39.4916953-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b5908c6c-b564-40f0-8f0a-655223c9ac7f">
+    </UnitTestResult>
+    <UnitTestResult executionId="28b79a94-85f4-4465-bb83-27b42937ba00" testId="8b36ed89-b128-95b3-2bed-df25c04e0610" testName="FourDollarsWithFourBuy4Get1FreeItems" computerName="STEVEIBPDESKTOP" duration="00:00:00.0002497" startTime="2010-07-26T23:16:39.4926718-04:00" endTime="2010-07-26T23:16:39.4965781-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="28b79a94-85f4-4465-bb83-27b42937ba00">
+    </UnitTestResult>
+    <UnitTestResult executionId="926864fe-4846-401e-ad54-c97bf751e179" testId="c018f654-f072-5a28-9b03-624324ed25c2" testName="ZeroWhenEmpty" computerName="STEVEIBPDESKTOP" duration="00:00:00.0002010" startTime="2010-07-26T23:16:39.4975546-04:00" endTime="2010-07-26T23:16:39.5014609-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="926864fe-4846-401e-ad54-c97bf751e179">
+    </UnitTestResult>
+  </Results>
+</TestRun>

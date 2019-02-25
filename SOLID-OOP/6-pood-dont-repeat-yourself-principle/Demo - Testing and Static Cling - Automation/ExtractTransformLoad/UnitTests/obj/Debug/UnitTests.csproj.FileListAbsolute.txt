@@ -1,0 +1,20 @@
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Demo\ExtractTransformLoad\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Demo\ExtractTransformLoad\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Demo\ExtractTransformLoad\UnitTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Demo\ExtractTransformLoad\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Demo\ExtractTransformLoad\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Demo\ExtractTransformLoad\UnitTests\bin\Debug\ExtractTransformLoad.exe
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Demo\ExtractTransformLoad\UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Demo\ExtractTransformLoad\UnitTests\bin\Debug\ExtractTransformLoad.pdb
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Part 2\Demo - Testing and Static Cling\ExtractTransformLoad\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Part 2\Demo - Testing and Static Cling\ExtractTransformLoad\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Part 2\Demo - Testing and Static Cling\ExtractTransformLoad\UnitTests\bin\Debug\ExtractTransformLoad.exe
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Part 2\Demo - Testing and Static Cling\ExtractTransformLoad\UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Part 2\Demo - Testing and Static Cling\ExtractTransformLoad\UnitTests\bin\Debug\ExtractTransformLoad.pdb
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Part 2\Demo - Testing and Static Cling\ExtractTransformLoad\UnitTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Part 2\Demo - Testing and Static Cling\ExtractTransformLoad\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Part 2\Demo - Testing and Static Cling\ExtractTransformLoad\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Part 2\Demo - Testing and Static Cling\ExtractTransformLoad\UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Part 2\Demo - Testing and Static Cling\ExtractTransformLoad\UnitTests\bin\Debug\Moq.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Part 2\Demo - Testing and Static Cling\ExtractTransformLoad\UnitTests\bin\Debug\Moq.pdb
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Part 2\Demo - Testing and Static Cling\ExtractTransformLoad\UnitTests\bin\Debug\Moq.xml

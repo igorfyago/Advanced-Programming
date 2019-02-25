@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="80ce1f18-cb5e-46cb-b6a4-9be600bfc415"
+  name="Retail Point of Sale" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <suppliersInternal>
+    <dependency
+      Id="055af7c7-ee15-49c9-8413-7aa3e14ab40f">
+      <classMoniker
+        Id="717f5569-f3c2-4a36-bff0-ad522bc8527d"
+        LastKnownName="PoSCreditOrder"
+        LastKnownLocation="ModelingProject1.uml" />
+    </dependency>
+    <dependency
+      Id="b0499c7d-9ed0-4a26-b316-f1d2da24b065">
+      <classMoniker
+        Id="4fa81d90-1a1f-4cce-8955-b78c0cf1e6b8"
+        LastKnownName="PoSCashOrder"
+        LastKnownLocation="ModelingProject1.uml" />
+    </dependency>
+  </suppliersInternal>
+</package>

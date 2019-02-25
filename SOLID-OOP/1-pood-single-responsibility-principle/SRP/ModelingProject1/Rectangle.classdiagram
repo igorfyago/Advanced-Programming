@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<logicalClassDesignerModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm4="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm5="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/ModelStore" dslVersion="1.0.0.0" Id="d0a8f91c-435f-41f1-8bec-ff0c32ecf1e2" name="UMLClassDiagram1" linkedPackageId="69450363-c9e3-4216-828a-36ef00a564d9" xmlns="http://schemas.microsoft.com/dsltools/LogicalClassDesigner">
+  <profileInstances>
+    <packageHasProfileInstances Id="42299f9b-a544-4de6-ae10-ae8823dc3938">
+      <profileInstance Id="bcff3be3-5df2-4045-b0a3-9bb25f57cd56" name="StandardProfileL2">
+        <elementDefinition Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791" />
+      </profileInstance>
+      <elementDefinition Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances Id="d2be7852-3ce5-4dc5-85af-bf3a88ce8e69">
+      <profileInstance Id="d0ed3566-ece3-4ddb-aaa9-2f5390967457" name="StandardProfileL3">
+        <elementDefinition Id="532ea607-fb19-44b8-8502-3351b05452be" />
+      </profileInstance>
+      <elementDefinition Id="29349502-908c-4fda-9054-c48619c59ed0" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <logicalClassDesignerModelHasTypes>
+      <class Id="b27415ad-04be-4844-970a-dedeb8475867" name="Rectangle" isAbstract="false" isLeaf="false" isActiveClass="false">
+        <elementDefinition Id="16b1abe0-bcc7-446c-86cc-2382a731fc47" />
+        <suppliersInternal>
+          <dependency Id="94d3e5ce-2b0a-47d6-945d-ea49559dca63">
+            <packageMoniker Id="d14cbc02-83c8-4d14-aa6c-2f81c85f3600" LastKnownName="GUI" />
+            <elementDefinition Id="794192b4-36e4-4671-82e5-0a53bc695963" />
+          </dependency>
+        </suppliersInternal>
+        <ownedOperationsInternal>
+          <operation Id="ddbea861-b4d1-4d88-8a37-404ea0227b50" name="render" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="7b2d4290-e2f4-4981-9178-466d62073d33" />
+          </operation>
+          <operation Id="f2a2af17-54fd-47f9-8cbc-4c0176147104" name="area" isLeaf="false" isStatic="false" isAbstract="false" concurrency="Sequential" isQuery="false">
+            <elementDefinition Id="edc4c5d4-898b-4de9-8083-19480c24cfbd" />
+          </operation>
+        </ownedOperationsInternal>
+      </class>
+    </logicalClassDesignerModelHasTypes>
+    <logicalClassDesignerModelHasPackages>
+      <package Id="a4418556-e789-499c-8cc8-2cb3f21fce4f" name="Graphical Application">
+        <elementDefinition Id="a763e918-edc4-4546-9bf0-cf1ce9d68b77" />
+        <suppliersInternal>
+          <dependency Id="b1ba417f-2b61-4335-894f-e37124674236">
+            <classMoniker Id="b27415ad-04be-4844-970a-dedeb8475867" LastKnownName="Rectangle" />
+            <elementDefinition Id="6077f156-5371-4a87-83e0-16a5e4dbf23d" />
+          </dependency>
+          <dependency Id="d8fc875a-3bbf-4d1e-8a2e-0a55a76a803e">
+            <packageMoniker Id="d14cbc02-83c8-4d14-aa6c-2f81c85f3600" LastKnownName="GUI" />
+            <elementDefinition Id="4f7cccba-8ff6-4481-bf59-74e3483ebac1" />
+          </dependency>
+        </suppliersInternal>
+      </package>
+    </logicalClassDesignerModelHasPackages>
+    <logicalClassDesignerModelHasPackages>
+      <package Id="d14cbc02-83c8-4d14-aa6c-2f81c85f3600" name="GUI">
+        <elementDefinition Id="2a32e578-cc10-4d8d-a5e9-da8a25d5646c" />
+      </package>
+    </logicalClassDesignerModelHasPackages>
+    <logicalClassDesignerModelHasPackages>
+      <package Id="f9b8bdbd-be02-4d2c-83f2-8772004ad248" name="Geometry Service">
+        <elementDefinition Id="3dadd444-6c58-4716-ae4d-d2797c39aaee" />
+        <suppliersInternal>
+          <dependency Id="7bc145c2-9e47-4577-bc38-59aa745de6e3">
+            <classMoniker Id="b27415ad-04be-4844-970a-dedeb8475867" LastKnownName="Rectangle" />
+            <elementDefinition Id="f30495a3-5671-48b0-92e9-65651e77abc4" />
+          </dependency>
+        </suppliersInternal>
+      </package>
+    </logicalClassDesignerModelHasPackages>
+  </packagedElements>
+  <package Id="69450363-c9e3-4216-828a-36ef00a564d9" name="ModelingProject1">
+    <elementDefinition Id="ab9098db-d4fd-404a-a8dd-9a869ab6f8c6" />
+  </package>
+</logicalClassDesignerModel>

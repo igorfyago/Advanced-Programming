@@ -1,0 +1,7 @@
+C:\Dev\SteveSmith\N-Tier Development In .NET\trunk\src\NTierDAL2\bin\Debug\NTier.DAL2.dll
+C:\Dev\SteveSmith\N-Tier Development In .NET\trunk\src\NTierDAL2\bin\Debug\NTier.DAL2.pdb
+C:\Dev\SteveSmith\N-Tier Development In .NET\trunk\src\NTierDAL2\bin\Debug\NTier.Common.dll
+C:\Dev\SteveSmith\N-Tier Development In .NET\trunk\src\NTierDAL2\bin\Debug\NTier.Common.pdb
+C:\Dev\SteveSmith\N-Tier Development In .NET\trunk\src\NTierDAL2\obj\Debug\ResolveAssemblyReference.cache
+C:\Dev\SteveSmith\N-Tier Development In .NET\trunk\src\NTierDAL2\obj\Debug\NTier.DAL2.dll
+C:\Dev\SteveSmith\N-Tier Development In .NET\trunk\src\NTierDAL2\obj\Debug\NTier.DAL2.pdb

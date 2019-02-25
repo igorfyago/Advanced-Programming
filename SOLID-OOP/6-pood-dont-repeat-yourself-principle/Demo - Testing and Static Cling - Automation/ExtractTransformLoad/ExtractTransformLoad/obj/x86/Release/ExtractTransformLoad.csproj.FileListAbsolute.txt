@@ -1,0 +1,10 @@
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Demo\ExtractTransformLoad\ExtractTransformLoad\bin\Release\ExtractTransformLoad.exe
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Demo\ExtractTransformLoad\ExtractTransformLoad\bin\Release\ExtractTransformLoad.pdb
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Demo\ExtractTransformLoad\ExtractTransformLoad\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Demo\ExtractTransformLoad\ExtractTransformLoad\obj\x86\Release\ExtractTransformLoad.exe
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Demo\ExtractTransformLoad\ExtractTransformLoad\obj\x86\Release\ExtractTransformLoad.pdb
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Part 2\Demo - Testing and Static Cling\ExtractTransformLoad\ExtractTransformLoad\bin\Release\ExtractTransformLoad.exe
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Part 2\Demo - Testing and Static Cling\ExtractTransformLoad\ExtractTransformLoad\bin\Release\ExtractTransformLoad.pdb
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Part 2\Demo - Testing and Static Cling\ExtractTransformLoad\ExtractTransformLoad\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Part 2\Demo - Testing and Static Cling\ExtractTransformLoad\ExtractTransformLoad\obj\x86\Release\ExtractTransformLoad.exe
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Part 2\Demo - Testing and Static Cling\ExtractTransformLoad\ExtractTransformLoad\obj\x86\Release\ExtractTransformLoad.pdb

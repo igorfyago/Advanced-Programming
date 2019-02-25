@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="dba743b4-a827-4d84-8fc5-f193f935e687" name="Steve@STEVEIBPDESKTOP 2010-08-11 21:37:31" runUser="SteveIBPDesktop\Steve" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="126fbd0c-a4ab-4a09-952f-6ac41885b870">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="Steve_STEVEIBPDESKTOP 2010-08-11 21_37_31" />
+  </TestSettings>
+  <Times creation="2010-08-11T21:37:31.4516562-04:00" queuing="2010-08-11T21:37:31.8373984-04:00" start="2010-08-11T21:37:31.9975546-04:00" finish="2010-08-11T21:37:32.2153281-04:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="3" executed="3" passed="2" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TwentyFor4X5RectangleFromSquare" storage="c:\users\steve\documents\my projects\pluralsight\003 - liskov substitution principle\demo\lsp\testproject1\bin\debug\commerceproject.dll" id="fcbc422b-6e05-88af-8654-79719e4076a0">
+      <Execution timeOut="1800000" id="f964fad4-dbd6-45d6-b0a9-f204992743d9" />
+      <TestMethod codeBase="C:/Users/Steve/Documents/My Projects/PluralSight/003 - Liskov Substitution Principle/Demo/LSP/TestProject1/bin/Debug/CommerceProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CommerceProject.AreaShouldReturn, CommerceProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TwentyFor4X5RectangleFromSquare" />
+    </UnitTest>
+    <UnitTest name="SixFor2X3Rectangle" storage="c:\users\steve\documents\my projects\pluralsight\003 - liskov substitution principle\demo\lsp\testproject1\bin\debug\commerceproject.dll" id="54b0b882-c504-3448-01da-d03702dd2d55">
+      <Execution timeOut="1800000" id="23af55ba-98f0-4c70-9fc9-a36e31156fa5" />
+      <TestMethod codeBase="C:/Users/Steve/Documents/My Projects/PluralSight/003 - Liskov Substitution Principle/Demo/LSP/TestProject1/bin/Debug/CommerceProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CommerceProject.AreaShouldReturn, CommerceProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SixFor2X3Rectangle" />
+    </UnitTest>
+    <UnitTest name="NineFor3X3Square" storage="c:\users\steve\documents\my projects\pluralsight\003 - liskov substitution principle\demo\lsp\testproject1\bin\debug\commerceproject.dll" id="7a752810-e647-a4b0-854e-f610f517d0c7">
+      <Execution timeOut="1800000" id="a77f5786-e5d8-4dd8-b96f-7b30d9b2d1dc" />
+      <TestMethod codeBase="C:/Users/Steve/Documents/My Projects/PluralSight/003 - Liskov Substitution Principle/Demo/LSP/TestProject1/bin/Debug/CommerceProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CommerceProject.AreaShouldReturn, CommerceProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="NineFor3X3Square" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="7a752810-e647-a4b0-854e-f610f517d0c7" executionId="a77f5786-e5d8-4dd8-b96f-7b30d9b2d1dc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="54b0b882-c504-3448-01da-d03702dd2d55" executionId="23af55ba-98f0-4c70-9fc9-a36e31156fa5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="fcbc422b-6e05-88af-8654-79719e4076a0" executionId="f964fad4-dbd6-45d6-b0a9-f204992743d9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="a77f5786-e5d8-4dd8-b96f-7b30d9b2d1dc" testId="7a752810-e647-a4b0-854e-f610f517d0c7" testName="NineFor3X3Square" computerName="STEVEIBPDESKTOP" duration="00:00:00.0145638" startTime="2010-08-11T21:37:32.0366171-04:00" endTime="2010-08-11T21:37:32.1040000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a77f5786-e5d8-4dd8-b96f-7b30d9b2d1dc">
+    </UnitTestResult>
+    <UnitTestResult executionId="23af55ba-98f0-4c70-9fc9-a36e31156fa5" testId="54b0b882-c504-3448-01da-d03702dd2d55" testName="SixFor2X3Rectangle" computerName="STEVEIBPDESKTOP" duration="00:00:00.0005450" startTime="2010-08-11T21:37:32.1059531-04:00" endTime="2010-08-11T21:37:32.1079062-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="23af55ba-98f0-4c70-9fc9-a36e31156fa5">
+    </UnitTestResult>
+    <UnitTestResult executionId="f964fad4-dbd6-45d6-b0a9-f204992743d9" testId="fcbc422b-6e05-88af-8654-79719e4076a0" testName="TwentyFor4X5RectangleFromSquare" computerName="STEVEIBPDESKTOP" duration="00:00:00.0258983" startTime="2010-08-11T21:37:32.1118125-04:00" endTime="2010-08-11T21:37:32.1381796-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f964fad4-dbd6-45d6-b0a9-f204992743d9">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;20&gt;. Actual:&lt;25&gt;. </Message>
+          <StackTrace>   at CommerceProject.AreaShouldReturn.TwentyFor4X5RectangleFromSquare() in C:\Users\Steve\Documents\My Projects\PluralSight\003 - Liskov Substitution Principle\Demo\LSP\TestProject1\LSPTest.cs:line 31
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

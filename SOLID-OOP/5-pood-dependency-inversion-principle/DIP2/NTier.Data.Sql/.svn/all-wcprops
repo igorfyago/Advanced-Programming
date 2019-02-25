@@ -1,0 +1,21 @@
+K 26
+svn:wc:ra_dav:activity-url
+V 25
+/svn/SteveSmith/!svn/act/
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/SteveSmith/!svn/ver/229/N-Tier%20Development%20In%20.NET/trunk/src/NTier.Data.Sql
+END
+SqlUserRepository.cs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/SteveSmith/!svn/ver/228/N-Tier%20Development%20In%20.NET/trunk/src/NTier.Data.Sql/SqlUserRepository.cs
+END
+NTier.Data.Sql.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/SteveSmith/!svn/ver/228/N-Tier%20Development%20In%20.NET/trunk/src/NTier.Data.Sql/NTier.Data.Sql.csproj
+END

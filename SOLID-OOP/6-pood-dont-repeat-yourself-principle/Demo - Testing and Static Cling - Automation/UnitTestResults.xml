@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="ExtractTransformLoad\UnitTests\bin\debug\UnitTests.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2010-10-03" time="13:43:31">
+  <environment nunit-version="2.5.7.10213" clr-version="4.0.30319.1" os-version="Microsoft Windows NT 6.1.7600.0" platform="Win32NT" cwd="C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Part 2\Demo - Testing and Static Cling" machine-name="STEVEIBPDESKTOP" user="Steve" user-domain="SteveIBPDesktop" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="ExtractTransformLoad\UnitTests\bin\debug\UnitTests.dll" executed="True" result="Success" success="True" time="0.378" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="UnitTests" executed="True" result="Success" success="True" time="0.373" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="ExtractShould" executed="True" result="Success" success="True" time="0.372" asserts="0">
+            <results>
+              <test-case name="UnitTests.ExtractShould.GetDataFromInvoicesAndEmployees" executed="True" result="Success" success="True" time="0.366" asserts="0" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

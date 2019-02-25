@@ -1,0 +1,14 @@
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Demo\ExtractTransformLoad\IntegrationTests\bin\Release\IntegrationTests.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Demo\ExtractTransformLoad\IntegrationTests\bin\Release\IntegrationTests.pdb
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Demo\ExtractTransformLoad\IntegrationTests\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Demo\ExtractTransformLoad\IntegrationTests\obj\Release\IntegrationTests.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Demo\ExtractTransformLoad\IntegrationTests\obj\Release\IntegrationTests.pdb
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Part 2\Demo - Final\ExtractTransformLoad\IntegrationTests\bin\Release\IntegrationTests.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Part 2\Demo - Final\ExtractTransformLoad\IntegrationTests\bin\Release\IntegrationTests.pdb
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Part 2\Demo - Final\ExtractTransformLoad\IntegrationTests\bin\Release\ExtractTransformLoad.exe
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Part 2\Demo - Final\ExtractTransformLoad\IntegrationTests\bin\Release\nunit.framework.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Part 2\Demo - Final\ExtractTransformLoad\IntegrationTests\bin\Release\ExtractTransformLoad.pdb
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Part 2\Demo - Final\ExtractTransformLoad\IntegrationTests\bin\Release\nunit.framework.xml
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Part 2\Demo - Final\ExtractTransformLoad\IntegrationTests\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Part 2\Demo - Final\ExtractTransformLoad\IntegrationTests\obj\Release\IntegrationTests.dll
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Part 2\Demo - Final\ExtractTransformLoad\IntegrationTests\obj\Release\IntegrationTests.pdb

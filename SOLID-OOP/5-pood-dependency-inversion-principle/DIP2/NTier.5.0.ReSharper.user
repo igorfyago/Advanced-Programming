@@ -1,0 +1,91 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="9A9C8547-EF1E-469C-8BED-CBEE4299FE9F/f:Web.config" caret="0" fromTop="0" />
+      <File id="9A9C8547-EF1E-469C-8BED-CBEE4299FE9F/f:Register.aspx.cs" caret="2395" fromTop="30" />
+      <File id="BBC52F2B-3490-4D3A-933C-978B2ABE3EDB/f:Security.cs" caret="851" fromTop="24" />
+      <File id="BBC52F2B-3490-4D3A-933C-978B2ABE3EDB/f:Users.cs" caret="0" fromTop="0" />
+      <File id="9A9C8547-EF1E-469C-8BED-CBEE4299FE9F/d:App_Data/f:users.xml" caret="386" fromTop="13" />
+      <File id="5DCE411F-BC59-4F4E-A6A2-589EE3AB6730/f:DAL.cs" caret="1539" fromTop="10" />
+      <File id="BBC52F2B-3490-4D3A-933C-978B2ABE3EDB/f:DAL.cs" caret="206" fromTop="5" />
+      <File id="4D470FF4-90DC-4704-A90C-FA4076571440/f:BLL.cs" caret="102" fromTop="6" />
+      <File id="DABEFB9C-9177-4FBD-9C25-210B3EBE8306/f:UserDetails.cs" caret="0" fromTop="0" />
+      <File id="4D470FF4-90DC-4704-A90C-FA4076571440/f:Users.cs" caret="403" fromTop="14" />
+      <File id="9A9C8547-EF1E-469C-8BED-CBEE4299FE9F/f:Login.aspx.cs" caret="1500" fromTop="17" />
+      <File id="E27F7E76-C2E1-4424-BCF4-93ACB7898606/f:NTier.asmx.cs" caret="1380" fromTop="16" />
+      <File id="5433A47E-E0D4-49FF-95DE-D9B74191AA58/f:SecurityLoginShould.cs" caret="425" fromTop="14" />
+      <File id="5DCE411F-BC59-4F4E-A6A2-589EE3AB6730/f:Security.cs" caret="270" fromTop="8" />
+      <File id="4D470FF4-90DC-4704-A90C-FA4076571440/d:Interfaces/f:IUserRepository.cs" caret="50" fromTop="1" />
+      <File id="F1167956-1D1F-4371-B9AB-9E9087F989F7/f:SqlUserRepository.cs" caret="59" fromTop="2" />
+      <File id="4D470FF4-90DC-4704-A90C-FA4076571440/f:Security.cs" caret="328" fromTop="9" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="9A9C8547-EF1E-469C-8BED-CBEE4299FE9F/d:App_Data/f:users.xml" caret="1938" fromTop="13" />
+      <File id="5433A47E-E0D4-49FF-95DE-D9B74191AA58/f:SecurityLoginShould.cs" caret="533" fromTop="13" />
+      <File id="5433A47E-E0D4-49FF-95DE-D9B74191AA58/f:SecurityLoginShould.cs" caret="533" fromTop="19" />
+      <File id="5DCE411F-BC59-4F4E-A6A2-589EE3AB6730/f:DAL.cs" caret="842" fromTop="32" />
+      <File id="5DCE411F-BC59-4F4E-A6A2-589EE3AB6730/f:DAL.cs" caret="989" fromTop="37" />
+      <File id="4D470FF4-90DC-4704-A90C-FA4076571440/f:Users.cs" caret="126" fromTop="6" />
+      <File id="9A9C8547-EF1E-469C-8BED-CBEE4299FE9F/f:Register.aspx.cs" caret="2395" fromTop="30" />
+      <File id="E27F7E76-C2E1-4424-BCF4-93ACB7898606/f:NTier.asmx.cs" caret="1588" fromTop="30" />
+      <File id="4D470FF4-90DC-4704-A90C-FA4076571440/f:BLL.cs" caret="102" fromTop="6" />
+      <File id="4D470FF4-90DC-4704-A90C-FA4076571440/f:Users.cs" caret="182" fromTop="7" />
+      <File id="5433A47E-E0D4-49FF-95DE-D9B74191AA58/f:SecurityLoginShould.cs" caret="533" fromTop="19" />
+      <File id="4D470FF4-90DC-4704-A90C-FA4076571440/f:Users.cs" caret="247" fromTop="9" />
+      <File id="4D470FF4-90DC-4704-A90C-FA4076571440/f:Users.cs" caret="403" fromTop="14" />
+      <File id="9A9C8547-EF1E-469C-8BED-CBEE4299FE9F/f:Login.aspx.cs" caret="1500" fromTop="17" />
+      <File id="5433A47E-E0D4-49FF-95DE-D9B74191AA58/f:SecurityLoginShould.cs" caret="425" fromTop="14" />
+      <File id="E27F7E76-C2E1-4424-BCF4-93ACB7898606/f:NTier.asmx.cs" caret="1380" fromTop="16" />
+      <File id="4D470FF4-90DC-4704-A90C-FA4076571440/f:Security.cs" caret="469" fromTop="18" />
+      <File id="4D470FF4-90DC-4704-A90C-FA4076571440/f:Security.cs" caret="39" fromTop="0" />
+      <File id="4D470FF4-90DC-4704-A90C-FA4076571440/f:Security.cs" caret="506" fromTop="17" />
+      <File id="F1167956-1D1F-4371-B9AB-9E9087F989F7/f:SqlUserRepository.cs" caret="59" fromTop="2" />
+      <File id="4D470FF4-90DC-4704-A90C-FA4076571440/f:Security.cs" caret="343" fromTop="10" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.7\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="int" priority="0" />
+      <Item value="string" priority="3" />
+      <Item value="BLL" priority="0" />
+      <Item value="Security`0" priority="1" />
+      <Item value="validEmail" priority="0" />
+      <Item value="validPassword" priority="0" />
+      <Item value="Assert`0" priority="0" />
+      <Item value="validUserId" priority="0" />
+      <Item value="new" priority="1" />
+      <Item value="public" priority="1" />
+      <Item value="interface" priority="0" />
+      <Item value="ctor" priority="0" />
+      <Item value="IUserRepository`0" priority="0" />
+      <Item value="userRepository" priority="0" />
+      <Item value="this" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NTier.BLL.Security">
+      <Item value="login`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.VisualStudio.TestTools.UnitTesting.Assert">
+      <Item value="AreEqual`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NTier.BLL.IUserRepository">
+      <Item value="GetByEmailPassword`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

@@ -1,0 +1,5 @@
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Demo\ExtractTransformLoad\ExtractTransformLoad\bin\Debug\ExtractTransformLoad.exe
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Demo\ExtractTransformLoad\ExtractTransformLoad\bin\Debug\ExtractTransformLoad.pdb
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Demo\ExtractTransformLoad\ExtractTransformLoad\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Demo\ExtractTransformLoad\ExtractTransformLoad\obj\x86\Debug\ExtractTransformLoad.exe
+C:\Users\Steve\Documents\My Projects\PluralSight\006 - Dont Repeat Yourself\Demo\ExtractTransformLoad\ExtractTransformLoad\obj\x86\Debug\ExtractTransformLoad.pdb

@@ -1,0 +1,10 @@
+<Modules>
+  <Module PersistentId="5433A47E-E0D4-49FF-95DE-D9B74191AA58" ModuleId="NTier.UnitTests" />
+  <Module PersistentId="4D470FF4-90DC-4704-A90C-FA4076571440" ModuleId="NTierBLL" />
+  <Module PersistentId="5DCE411F-BC59-4F4E-A6A2-589EE3AB6730" ModuleId="NTierDAL" />
+  <Module PersistentId="9A9C8547-EF1E-469C-8BED-CBEE4299FE9F" ModuleId="NTierWeb" />
+  <Module PersistentId="E27F7E76-C2E1-4424-BCF4-93ACB7898606" ModuleId="NTierWebService" />
+  <Module PersistentId="BBC52F2B-3490-4D3A-933C-978B2ABE3EDB" ModuleId="NTierDAL2" />
+  <Module PersistentId="DABEFB9C-9177-4FBD-9C25-210B3EBE8306" ModuleId="NTierCommon" />
+  <Module PersistentId="F1167956-1D1F-4371-B9AB-9E9087F989F7" ModuleId="NTier.Data.Sql" />
+</Modules>
